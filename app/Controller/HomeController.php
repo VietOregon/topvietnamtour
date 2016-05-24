@@ -4,6 +4,7 @@ class HomeController extends AppController{
 	public function beforeFilter() {
         parent::beforeFilter();
         $this->layout = 'default';
+        $this->Auth->allow();
     }
 
 	public function trangchu(){

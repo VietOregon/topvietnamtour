@@ -1,0 +1,1273 @@
+.navbar-toggle{
+    display:none;
+}
+.navbar-toggle .icon-bar-nav + .icon-bar-nav {
+    margin-top: 4px;
+}
+.navbar-toggle .icon-bar-nav {
+    border-radius: 2px;
+    display: block;
+    height: 6px;
+    width: 29px;
+    background: #ba6842;
+}
+@media (min-width: 1024px) and (max-width: 1199px) {
+    .name_offer_div {
+        border-top: 70px solid #feab0b;
+        border-right: 310px solid transparent;
+        border-left: 310px solid transparent;
+    }
+    #single_tour_feat ul li .title{
+        font-size: 12px;
+    }
+    .tb-cabin{
+        font-size: 13px;
+    }
+    .th-type,.th-service{
+        font-size: 14px;
+    }
+    .cruise-itemlist-top{
+        margin-bottom: 10px;
+    }
+    .a-name-cruise-hot{
+        font-size: 18px;
+    }
+    .a-name-cruise-mekong{
+        font-size: 16px;
+    }
+    .top-contact-inner{
+        margin: 0;
+    }
+    .respon-name{
+        font-size: 20px;
+    }
+    .team-hot-name{
+        font-size: 18px;
+    }
+    .team-hot-position{
+        font-size: 14px;
+    }
+    .a-customize-team{
+        font-size: 18px;
+    }
+    .box-support{
+        padding-left: 0;
+    }
+    .h3-hotel-in-tour{
+        width: 44px;
+        overflow: hidden;
+        font-size: 14px;
+    }
+    .commRecord{
+        background: none;
+        padding-left: 20px;
+    }
+    .cruise-book{
+        margin-bottom: 20px;
+    }
+    .tab-cruise-detail{
+        margin-top: 15px;
+    }
+    .container {
+        width: 100%;
+    }
+    .main-menu > ul > li > a{
+        font-size: 14px;
+    }
+    .main-menu{
+        min-width: 980px;
+    }
+    .li_menu_main ul li a.a_level2{
+        font-size: 13px;
+    }
+    .sticky .a-become-partner{
+        display: none;
+    }
+    .box_search_bg{
+        padding: 7px 12px;
+    }
+    .submit_search_2{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .title-search{
+        padding-left: 20px;
+    }
+    .slide-text{
+        left: 20px;
+    }
+    .row-tour-bestseller{
+        padding: 0 20px;
+    }
+    .box-tour-bestseller{
+        margin: 0 -20px;
+    }
+    .row-tour-hot{
+        padding: 0 15px;
+    }
+    .box-tour-top{
+        margin: 0 -15px;
+    }
+    .a-name-bestseller{
+        font-size: 18px;
+    }
+    .a-name-top{
+        font-size: 16px;
+    }
+    .h2-about-index{
+        font-size: 30px;
+    }
+    .box-about-desc-inner{
+        font-size: 15px;
+    }
+    .h1-title{
+        font-size: 30px;
+    }
+    .cattour-desc h1, .cattour-desc h2, .cattour-desc h3, .h2-title{
+        font-size: 20px;
+    }
+    .h3-video{
+        font-size: 20px;
+    }
+    .box-support-large{
+        padding-left: 25px;
+    }
+    .desc-subcat-dest-inner{
+        padding-top: 70px;
+    }
+    .box-support-bottom{
+        padding-left: 0;
+    }
+    .a-special-news{
+        font-size: 16px;
+    }
+    .a-view-more-list{
+        font-size: 17px;
+        margin-top: 20px;
+    }
+    .itemlist-style-other-7 .itemlist-style-other-name{
+        font-size: 16px;
+    }
+    .itemlist-style-other-7 .desc-subcat-dest-inner{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .desc-style-other{
+        font-size: 13px;
+
+    }
+    .desc-subcat-dest{
+
+    }
+    .desc-subcat-dest .a-read-more-about{
+        font-size: 15px;
+    }
+    .itemlist-style-other-name{
+        font-size: 20px;
+    }
+    .h1-cruise-detail{
+        font-size: 30px;
+    }
+
+}
+@media screen and (max-width: 991px){
+    .tour-slide-text{
+        width: 90%;
+    }
+    .left-content{
+        width: 100%;
+        float: none;
+    }
+    .right-content{
+        width: 100%;
+        float: none;
+        margin-top: 15px;
+    }
+    .main-menu{
+        display: none;
+    }
+    .navbar-toggle{
+        display: block
+    }
+    header.sticky{
+        left: auto;
+        position: relative;
+        top: auto;
+        width: 100%;
+        z-index: 99999;
+        padding: 5px 0 0 0;
+        background: url(../../images/topvietnamtour/bg-home-slider.jpg);
+        box-shadow:0 2px 10px -2px rgba(0, 0, 0, 0.41);
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 768px){
+    .name_offer_div {
+        border-top: 70px solid #feab0b;
+        border-right: 330px solid transparent;
+        border-left: 330px solid transparent;
+    }
+    .span_whyus_2{
+        font-size:17px
+    }
+    .span_whyus_3{
+        font-size: 12px;
+    }
+    .form .text205{
+        width: 100%;
+    }
+    .tab-cruise-detail{
+        margin-top: 0;
+    }
+    .cruise-book{
+        margin-bottom: 20px;
+    }
+    .left-cruise-detail{
+        width: 100%;
+    }
+    .right-cruise-detail{
+        width: 100%;
+    }
+    .style-other .desc-subcat-dest{
+        display: none;
+    }
+    .cattour-map-small img{
+        max-width: 100% !important;
+    }
+    .a-name-cruise-mekong{
+        font-size: 15px;
+    }
+    .a-name-cruise-hot{
+        font-size: 16px;
+    }
+    .h1-title{
+        font-size: 25px;
+    }
+    .cattour-desc h1, .cattour-desc h2, .cattour-desc h3, .h2-title{
+        font-size: 20px;
+    }
+    .h3-video{
+        font-size: 17px;
+    }
+    .box-support-large{
+        padding-left: 0;
+
+    }
+    .a-special-news{
+     font-size: 15px;
+        font-family: MyriadPro-Regular;
+        padding-right:  0;
+    }
+    .row-subcat-dest .desc-subcat-dest-inner{
+        padding-top: 20px;
+        font-size: 13px;
+    }
+    .row-subcat-dest .desc-subcat-dest-inner-2{
+        height: 110px;
+        overflow: hidden;
+    }
+    .title-footer{
+        font-size: 20px;
+    }
+    .contact-footer{
+        width: 30%;
+    }
+    .a-view-map-footer{
+        padding-left: 5px;
+    }
+    .footer-resource{
+        width: 20%;
+    }
+    .testimonial-footer{
+        width: 30%;
+    }
+    .box-newsletter{
+        display: none;
+    }
+    .carousel-left, .carousel-right{
+        top: 200px;
+    }
+    .h3-dest{
+        margin-top: 15px;
+    }
+    .h2-about-index{
+        font-size: 20px;
+    }
+    .title-about{
+        font-size: 20px;
+    }
+    .box-about-desc-inner{
+        font-size: 14px;
+        padding: 5px 0;
+    }
+    .a-name-bestseller{
+        font-size: 18px;
+    }
+    .a-name-top{
+        font-size: 16px;
+    }
+    .h1-cruise-detail{
+        font-size: 30px;
+    }
+    .box-tour-top .col-sm-6:nth-of-type(2n+1),
+    .offer_gift .col-sm-6:nth-of-type(2n+1),
+    .row-tour-hot .col-sm-6:nth-of-type(2n+1)
+    {
+        clear: both;
+    }
+    .a-name-dailytour-best{
+        font-size: 16px;
+    }
+    .short_info{
+        bottom: 60px;
+        font-size: 13px;
+    }
+    .row-tour-hot .col-sm-6:nth-of-type(3n+1),
+    .offer_gift .col-sm-6:nth-of-type(3n+1),
+    .box-tour-top .col-sm-6:nth-of-type(3n+1)
+    {
+        clear: none;
+    }
+    .row-tour-bestseller{
+        padding: 0 15px;
+    }
+    .row-tour-hot{
+        padding: 0 10px;
+    }
+    .box-tour-top{
+        margin: 0 -10px;
+    }
+    .box-tour-bestseller{
+        margin: 0 -15px;
+    }
+    .row-tour-hot{
+        margin-bottom: 20px;
+    }
+    .a-subcat-cruise-similar{
+        font-size: 18px;
+    }
+    .row_search_2{
+        width: 18%;
+    }
+    .submit_search_2{
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 0;
+        margin-top: 2px;
+    }
+    .bottom_search{
+        margin: 0 15px;
+    }
+    .bottom_search{
+        padding-left: 20px;
+    }
+    .title-search{
+        margin-left: 15px;
+    }
+    .box_search_bg{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .title-search{
+        padding-left: 0;
+    }
+    .slide-text{
+        left: 15px;
+    }
+    header{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-toggle{
+        margin: 0;
+    }
+    .header768{
+        position: relative;
+    }
+    .toggle-menu{
+        position: absolute;
+        right: 0;
+        border-top: 0;
+        bottom: 0;
+    }
+    .span-phone{
+        font-size: 14px;
+    }
+    .a-become-partner{
+        font-size: 14px;
+    }
+    .top-right-header{
+        margin-right: 10px;
+    }
+    .left-content{
+        width: 100%;
+        float: none;
+    }
+    .right-content{
+        width: 100%;
+        float: none;
+        margin-top: 15px;
+    }
+    .main-menu{
+        display: none;
+    }
+    .navbar-toggle{
+        display: block
+    }
+    header.sticky{
+        left: auto;
+        position: relative;
+        top: auto;
+        width: 100%;
+        z-index: 99999;
+        padding: 5px 0 0 0;
+        background: url(../../images/topvietnamtour/bg-home-slider.jpg);
+        box-shadow:0 2px 10px -2px rgba(0, 0, 0, 0.41);
+    }
+}
+
+@media screen and (max-width: 767px){
+    .h1-cruise-detail{
+        margin-top: 15px;
+        font-size: 22px;
+    }
+    .offer_end_in{
+        position: relative;
+        border-radius: 0;
+        right: 0;
+        bottom: 0;
+    }
+    .a_view_offer_:hover, .a_view_offer_:focus{
+        color:#FFAB0B
+    }
+    .name_offer_button_{
+        font-size: 17px;
+    }
+    .name_offer_div {
+        border:none
+    }
+    .subbiz_right{
+        position: relative;
+    }
+    .tour_include_exclude{
+        display: block;
+    }
+    .table{
+        display: block;
+    }
+    .tour-include{
+        width: 100%;
+        display: block;
+        margin-bottom: 10px;
+    }
+    .box-vietnam-office, .box-international-office{
+        width: 100%;
+    }
+    .box-vietnam-office{
+        margin-bottom: 10px;
+    }
+    .box-search-partner .text-right{
+        text-align: left !important;
+        padding-bottom: 5px;
+    }
+    .div-expand-search .select_edit{
+        margin-bottom: 10px;
+    }
+    .box-search-partner .col-md-3{
+        padding-top: 0;
+    }
+    .msg-partner-download{
+        display: block;
+    }
+    .padding-partner-download{
+        display: none
+    }
+    .msg-partner,.download-tarriff{
+        width: 100%;
+        display: block;
+    }
+    .input-phone,.input-edit,.business_description{
+        width: 100%;
+    }
+    .title-form_{
+        text-align: left;
+    }
+    .select-list-title{
+        font-size: 15px;
+    }
+    .select_list{
+        padding-left: 5px;
+        padding-right: 30px;
+    }
+    .select-list-box{
+        margin-right: 5px;
+        float: none;
+    }
+    .select-list-box .options a{
+        padding-left: 0px;
+        text-transform: none;
+    }
+    .row_faq_list h3{
+        font-size: 15px;
+    }
+
+    .box-right{
+        padding: 0 5px;
+    }
+    .right-content .support-phone, .right-content .support-email,.right-content .support-cust
+    {
+        margin: 0 15px;
+    }
+    .guide-hotlist{
+        padding: 0 5px;
+    }
+    .guide-hotlist .col-xs-4{
+        padding: 0 5px;
+        margin-bottom: 15px;
+    }
+    .guide-hotlist{
+        margin: 0 -5px;
+    }
+    .summary_catguide{
+        padding: 0 5px;
+    }
+    .h2-title{
+        padding-left: 5px;
+    }
+    .top-right-header{
+        float: none;
+        margin: 0;
+        text-align: center;
+    }
+    .a-become-partner{
+        float: left;
+    }
+    .top-menu{
+        float: right;
+    }
+    .span-phone{
+        display: none;
+    }
+    header{
+        border:none;
+        padding-top: 0;
+    }
+    .container{
+        padding: 0;
+    }
+    .right-header{
+        float: none;
+        width: 100%;
+        background: #5a3403;
+        color:#fff;
+        padding: 5px 10px;
+    }
+    .left-header{
+        float: none;
+        width: 100%;
+    }
+    .a-become-partner{
+        color:#fff;
+        font-size: 14px;
+    }
+    .a-become-partner::after{
+        border-color: #fff;
+    }
+    .a_top_menu{
+        color:#fff
+    }
+    .nav-top{
+        border:none;
+        padding: 0;
+    }
+    #logo img{
+        width: 150px;
+    }
+    .left-header{
+        padding: 5px 10px;
+        display: table;
+        width: 100%;
+    }
+    .toggle-menu{
+        display: table-cell;
+        vertical-align: middle;
+        width: 40px;
+    }
+    .navbar-toggle{
+        float: none;
+        margin: 0;
+        padding: 0 15px 0 0px;
+        border-right: 1px solid #CCCCCC;
+        border-radius: 0;
+    }
+    #logo{
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+    }
+    .box-search-banner{
+        display: none;
+    }
+    .slide-text{
+        left: auto;
+        right: 0;
+        font-size: 20px;
+        bottom: auto;
+        top: 40px;
+        font-family: OpenSans-Semibold;
+        width: 50%;
+    }
+    .h1-index{
+        font-size: 25px;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+    .box-title-index{
+        padding: 10px 0;
+    }
+    .box-about-left{
+        float: none;
+        width: 100%;
+    }
+    .box-about-right{
+        float: none;
+        width: 100%;
+        margin-top: 1px;
+    }
+    .title-about{
+        font-size: 22px;
+    }
+    .about-slide-text{
+
+        right: 15px;
+    }
+    .a-see-more-about{
+        border-width: 3px;
+        font-size: 18px;
+    }
+    .box-about{
+        padding-bottom: 20px;
+    }
+    .h3-whyus{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .row-whyus{
+        width: 100%;
+        min-height: 20px;
+        border-bottom: 1px solid #ccc;
+        padding: 10px 0;
+        border-right: none;
+    }
+    .txt-why{
+        width: auto;
+        float: none;
+    }
+    .a-whyus .span-icon{
+        float: left;
+        margin-right: 20px;
+    }
+    .row-whyus-8{
+        border:none
+    }
+    .a-become-partner-2{
+        margin-right: 15px;
+    }
+    .box-blog-container{
+        margin-top: 15px;
+    }
+    .h3-dest{
+        margin-top: 15px;
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .summay_dest_index{
+        height: 140px !important;
+        margin-bottom: 10px;
+        text-align: justify;
+    }
+    .carousel-left, .carousel-right{
+        top: 100px;
+    }
+    .box-blog-index{
+        padding:10px 15px 0 15px
+    }
+    .footer{
+        padding-top: 10px;
+    }
+    .box-newsletter{
+        display: none;
+    }
+    .footer-dest{
+        display: none;
+    }
+    .footer-resource{
+        float: none;
+        width: 100%;
+    }
+    .contact-footer{
+        display: none;
+    }
+    .testimonial-footer{
+        float: none;
+        width: 100%;
+        padding: 0 5px;
+    }
+    .a-name-top{
+        font-size: 16px;
+    }
+    .tour-top-name-inner{
+        padding: 7px;
+    }
+    .bottom_padding_tour{
+        padding: 0 5px;
+    }
+    .box-customize-index{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .a-customize-index{
+        float: none;
+    }
+    .row-tour-hot{
+        margin-bottom: 18px;
+    }
+    .a-name-bestseller{
+        font-size: 18px;
+    }
+    .left-content-catlist{
+        float: none;
+        width: 100%;
+        padding: 0 0 20px 0;
+    }
+    .right-content-catlist{
+        float: none;
+        width: 100%;
+    }
+    .h1-title{
+        font-size: 25px;
+    }
+    .h2-title,.cattour-desc h1, .cattour-desc h2, .cattour-desc h3{
+        font-size: 19px;
+    }
+    .cattour-desc{
+        padding-top: 10px;
+    }
+    .h3-video{
+        font-size: 20px;
+    }
+    .cattour-map .has-feedback{
+        margin-bottom: 5px;
+    }
+    .cattour-map .text-right{
+        text-align: center !important;
+    }
+    .cattour-map .text-center{
+        font-size: 17px;
+        padding-top: 0;
+    }
+    .catvideo .text-right{
+        padding-top: 0;
+    }
+    .row-subcat-dest{
+        margin-bottom: 2px;
+    }
+    .name-subcat-dest{
+        bottom: auto;
+        top: 20px;
+    }
+    .desc-subcat-dest-inner{
+        padding: 90px 10px 20px 10px;
+        font-size: 13px;
+
+    }
+    .box-our-service{
+        padding: 0 5px;
+    }
+    #single_tour_feat ul li{
+        display: inline-block;
+        float: left;
+        width: 25%;
+        padding: 0 0 15px 0;
+    }
+    .a-name-dailytour-best{
+        font-size: 17px;
+    }
+    .row-subcat-dest .desc-subcat-dest-inner-2{
+        height: 115px;
+        overflow: hidden;
+    }
+    .box-blog .h1-title, .box-blog .span-line{
+       margin-right: 10px;
+        margin-left: 10px;
+    }
+    .div-nameblog-hot{
+        padding: 0 10px;
+    }
+    .tour-itemlist-top {
+        border-bottom: none;
+        margin-bottom: 0;
+    }
+
+    .col-xs-3.col-cat3{
+        padding: 0;
+    }
+    .itemlist-style-other-col3{
+        position: relative;
+        height: 100px;
+        overflow: hidden;
+        position: relative;
+        margin-bottom: 5px;
+    }
+    .itemlist-style-other-col3 img{
+        position:absolute;
+        left: -100%;
+        right: -100%;
+        top: -100%;
+        bottom: -100%;
+        margin: auto;
+        min-height: 100%;
+        min-width: 100%;
+    }
+    .itemlist-style-other-col3 .desc-subcat-dest{
+        background: none;
+    }
+    .itemlist-style-other-col3 .desc-style-other{
+        display: none;
+    }
+    .col-cat3 .bestseller-type-price{
+        display: none;
+    }
+    .left-cruise-detail{
+        width: 100%;
+        float: none;
+        padding: 0 5px;
+    }
+    .right-cruise-detail{
+        width: 100%;
+        float: none;
+        padding: 0 5px;
+        margin-top: 20px;
+    }
+    .h1-cruise-detail{
+        font-size: 30px;
+    }
+    .tps__item{
+        padding: 5px 0 5px 5px;
+        font-size: 13px;
+    }
+    .h-big{
+        font-size: 20px;
+    }
+    .a_download,.a_request,.a_send, .a_print{
+        display: block;
+        margin-bottom: 5px;
+        padding-left: 30px;
+    }
+    .right-map-cruise{
+        float: none;
+        margin-left: 0;
+        width: 100%;
+        margin-bottom: 0;
+    }
+    .cruise-book-cust{
+        padding: 20px 0 0px 20px;
+    }
+    .cruise-book{
+        float: none;
+        margin: 0 0 18px 0;
+    }
+    .cruise-cust{
+        float: none;
+        margin: 0;
+    }
+    .tab-cruise-detail{
+        margin-top: 20px;
+    }
+    .title-tour-day .title-tour-day-meal{
+        display: none;
+    }
+    .title-tour-day div.title-tour-day-arrow
+    {
+        border-left: none;
+
+    }
+    .title-tour-day .title-tour-day-name{
+        border-right: none;
+    }
+    .title-tour-day .title-tour-day-icon{
+        width: 40px;
+        padding: 5px;
+        font-family: OpenSans-Semibold;
+        font-size: 14px;
+    }
+    .title-tour-day-order{
+        width: 55px;
+    }
+    .tour-day-img{
+        width: 100%;
+        margin-left: 0;
+    }
+    .left_score{
+        float: none;
+        height: auto;
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    .right_score{
+        float: none;
+        width: 100%;
+        height: auto;
+    }
+    .test-custname-itemlist{
+        font-size: 13px;
+    }
+    .test-title-itemlist{
+        font-size: 16px;
+    }
+    .rating small{
+        font-size: 13px;
+    }
+    .test-summary-itemlist{
+        font-size: 13px;
+    }
+    .test-summary-sortlist{
+        height: 72px;
+    }
+    .row-test-list .col-xs-4{
+        padding: 5px 0;
+    }
+    .nav.nav-tab-detail > li > a{
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .td_pbook_,.th_book{
+        display: none;
+    }
+    .row-book-package .col-md-3{
+        text-align: left;
+    }
+    .col-package{
+        padding-bottom: 10px;
+    }
+    .a-cruise-book,.a-cruise-cust{
+        display: block;
+    }
+    .tour-detail-button {
+        padding: 15px 30px 0px 30px;
+    }
+    .div-form-review{
+        padding: 15px;
+    }
+    .bt-submit{
+        font-size: 25px;
+        padding: 5px 20px;
+    }
+    .div_bt_review{
+        text-align: center;
+    }
+    .col-criteria:nth-of-type(2n+1){
+        clear: both;
+    }
+    .col-criteria{
+        margin-bottom: 5px;
+    }
+    .commRecord{
+        background-image: none;
+        padding: 15px 10px 15px 10px;
+    }
+    .answers_question{
+        background-image: none;
+        padding-left: 15px;
+    }
+    .commReplyText{
+        font-size:13px
+    }
+    .div_show_ask{
+        margin-left: 0;
+    }
+    .div_show_ask input{
+        margin-bottom: 5px;
+    }
+    .container_print {
+        margin: 0 auto;
+        width: 95%;
+    }
+    .container_print .div-bt-submit{
+        text-align: center;
+    }
+    .title-send{
+        padding-top: 0;
+        padding-bottom: 10px;
+    }
+    .pathway{
+        padding: 0 5px;
+    }
+    .h1-title{
+        padding-left: 5px;
+        margin-top: 15px;
+    }
+    .span-line{
+        margin-left: 5px;
+    }
+    .desc-catguide{
+        padding-left: 5px;
+    }
+    .div-map-catguide{
+        text-align: center;
+        padding-top: 15px;
+    }
+    .content{
+        padding-top: 10px;
+    }
+
+    .relative{
+        position: relative;
+    }
+    .relative .top-catguide{
+        background: rgba(0, 0, 0, 0.6) none repeat scroll 0 0;
+        bottom: 0;
+        left: 0;
+        position: absolute;
+        width: 100%;
+        margin-bottom: 0;
+        padding: 5px 5px;
+    }
+    .relative .top-catguide .a-name-catguide{
+        color:#fff;
+    }
+    .jcarousel-team li figure{
+        padding: 0 5px;
+    }
+    .box-free-call,.box-customize-team,.a-customize-team{
+        float: none;
+        text-align: center;
+    }
+    .guide-hotlist{
+        padding-top: 15px;
+    }
+    .whyus-post{
+        font-size: 20px;
+    }
+    .row-whyus-itemlist{
+        padding-top: 0;
+    }
+    .row-whyus-itemlist .has-feedback  {
+        padding-bottom: 5px;
+    }
+    .team-hot{
+        margin: 0 20px;
+    }
+    .team-hot-name{
+        font-size: 16px;
+    }
+    .team-hot-position{
+        font-size: 14px;
+    }
+    .div-team-getlist{
+        padding: 0;
+    }
+    .row-team{
+        padding-bottom: 20px;
+    }
+    .img-team-detail{
+        width: auto;
+    }
+    .team-gallery{
+        padding: 20px 0;
+    }
+    .respon-name{
+        font-size: 25px;
+        padding: 0 5px;
+    }
+    .h2-video{
+        margin-top: 5px;
+        font-size: 30px;
+    }
+    .a-video-title{
+        font-size: 16px;
+    }
+    .box-video .text-center{
+        padding-top: 4px;
+    }
+    .a-name-gallery{
+        font-size: 16px;
+    }
+    .offer_date{
+        font-size: 14px;
+    }
+    .offer_content{
+        padding: 0 5px;
+    }
+    .div-subcat-cruise{
+        background: none;
+        padding: 10px;
+    }
+    .a-subcat-cruise-catlist{
+        font-size: 20px;
+        background: url(../../images/topvietnamtour/cruise.png) no-repeat 0 0px;
+        display: inline-block;
+        height: 40px;
+        line-height: 40px;
+    }
+    .a-view-more-list{
+        display: none;
+    }
+    .tour-top-name-inner .a-name-cruise-mekong{
+        color: #fff;
+    }
+    .box-support-large{
+        padding-top: 15px;
+    }
+    .tour-top-name-inner .a-name-cruise-hot,
+    .tour-top-name-inner .a-subcat-cruise-similar{
+        color: #fff;
+        font-size: 16px;
+    }
+    .content-catlist-tour{
+        padding-top: 20px;
+    }
+    .cruise-itemlist-top{
+        margin-bottom: 0;
+    }
+    .row-tour-bestseller:last-child{
+        margin-bottom: 0;
+    }
+    .row-test-list{
+        padding: 10px 5px;
+    }
+    .footer-copyright{
+        background: #FFFFFF;
+        font-size: 12px;
+        padding: 10px;
+        text-align: center;
+        color: #000;
+    }
+    .footer-resource{
+        background: #5a3403 none repeat scroll 0 0;
+        text-align: center;
+        padding: 5px;
+    }
+    .footer-resource .a_footer_menu{
+        color:#fff;
+        font-size: 12px;
+    }
+    .footer-resource .li_footer_menu{
+        padding: 3px 0;
+        display: inline-block;
+    }
+    .footer-resource .li_footer_menu a{
+        border-right: 1px solid #FFFFFF;
+        padding: 0 8px;
+    }
+    .footer-resource .li_footer_menu:last-child a{
+        border:none
+    }
+    footer{
+        margin: 0;
+        padding-bottom: 0;
+        padding-top: 15px;
+    }
+    .top-contact-inner{
+        margin: 0;
+        padding: 20px;
+    }
+    .title-contact{
+        margin: 15px 0;
+        padding: 5px;
+    }
+    .form-inner{
+        padding: 20px;
+    }
+    .contact-dest-row{
+        width: 50%;
+        margin-bottom: 5px;
+    }
+    .title-form{
+        font-size: 15px;
+    }
+    .form-row .col-xs-12{
+        padding-bottom: 7px;
+    }
+    .form .text205 {
+        width: 100%;
+    }
+    .form-row{
+        margin-bottom: 0;
+    }
+    .container{
+        overflow: hidden;
+    }
+    .cattour-map{
+        padding: 0 5px;
+    }
+    .cattour-map-small{
+        float: none;
+        text-align: center;
+        width: 100%;
+        margin: 0;
+        padding: 10px;
+    }
+    .cattour-map-small .cruise-destination{
+        float: none;
+        width: auto;
+        text-align: center;
+        max-width: 100% !important;
+    }
+    .border-top{
+        border-top: 1px solid #ccc;
+    }
+    .box-tour-top{
+        padding-top: 5px;
+    }
+    .a-subcat-catlist{
+        font-size: 22px;
+    }
+    .bottom_blog{
+        padding: 10px 5px;
+    }
+    .div-nameblog-hot{
+        padding-bottom: 10px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .a-nameblog-hot{
+        font-size:16px ;
+    }
+    .div-nameblog-catguide{
+        font-size: 16px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .table-summary{
+        font-family: OpenSans-Regular;
+        font-size: 14px;
+    }
+    .left_score, .right_score, .score_breakdown{
+        display: block;
+    }
+    .img-about-index{
+        height: auto !important;
+    }
+}
+@media screen and (max-width: 400px){
+        .tps .tps__item{
+            display: block;
+            float: left;
+            width: 50%;
+            text-align: center;
+            height: 70px;
+            font-size: 14px;
+        }
+        .tps .tps__item:nth-child(1),
+        .tps .tps__item:nth-child(2){
+            border-bottom: 2px solid #f0efef;
+        }
+    .tps .tps__item:nth-child(3){
+        border-left: none;
+    }
+}
+@media screen and (max-width: 350px){
+    #single_tour_feat ul li{
+        width: 33.3333%;
+    }
+}
