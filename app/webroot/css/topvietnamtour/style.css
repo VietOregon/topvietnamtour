@@ -1,0 +1,6603 @@
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../../fonts/topvietnamtour/Montserrat-Regular.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/Montserr    font-weight: normal;at-Regular.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/Montserrat-Regular.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/Montserrat-Regular.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/Montserrat-Regular.svg?v=4.0.3') format('svg');
+
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../../fonts/topvietnamtour/Montserrat-Regular.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/Montserrat-Regular.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/Montserrat-Regular.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/Montserrat-Regular.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/Montserrat-Regular.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src: url('../../fonts/topvietnamtour/Montserrat-SemiBold.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/Montserrat-SemiBold.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/Montserrat-SemiBold.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/Montserrat-SemiBold.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/Montserrat-SemiBold.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Arabolical';
+    src: url('../../fonts/topvietnamtour/Arabolical.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/Arabolical.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/Arabolical.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/Arabolical.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/Arabolical.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'tt1018m';
+    src: url('../../fonts/topvietnamtour/tt1018m.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/tt1018m.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/tt1018m.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/tt1018m.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/tt1018m.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'UVN Mang Tre';
+    src: url('../../fonts/topvietnamtour/UVN Mang Tre.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/UVN Mang Tre.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/UVN Mang Tre.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/UVN Mang Tre.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/UVN Mang Tre.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MyriadPro-BoldCond';
+    src: url('../../fonts/topvietnamtour/MyriadPro-BoldCond.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/MyriadPro-BoldCond.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/MyriadPro-BoldCond.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/MyriadPro-BoldCond.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/MyriadPro-BoldCond.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ANCUUI';
+    src: url('../../fonts/topvietnamtour/ANCUUI.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/ANCUUI.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/ANCUUI.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/ANCUUI.TTF?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/ANCUUI.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MyriadPro-Cond';
+    src: url('../../fonts/topvietnamtour/MyriadPro-Cond.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/MyriadPro-Cond.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/MyriadPro-Cond.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/MyriadPro-Cond.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/MyriadPro-Cond.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MyriadPro-Regular';
+    src: url('../../fonts/topvietnamtour/MyriadPro-Regular.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/MyriadPro-Regular.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/MyriadPro-Regular.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/MyriadPro-Regular.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/MyriadPro-Regular.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MyriadPro-Bold';
+    src: url('../../fonts/topvietnamtour/MyriadPro-Bold.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/MyriadPro-Bold.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/MyriadPro-Bold.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/MyriadPro-Bold.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/MyriadPro-Bold.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MyriadPro-Semibold';
+    src: url('../../fonts/topvietnamtour/MyriadPro-Semibold.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/MyriadPro-Semibold.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/MyriadPro-Semibold.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/MyriadPro-Semibold.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/MyriadPro-Semibold.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'LCALLIG';
+    src: url('../../fonts/topvietnamtour/LCALLIG.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/LCALLIG.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/LCALLIG.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/LCALLIG.TTF?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/LCALLIG.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MAIAN';
+    src: url('../../fonts/topvietnamtour/MAIAN.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/MAIAN.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/MAIAN.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/MAIAN.TTF?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/MAIAN.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans-Semibold';
+    src: url('../../fonts/topvietnamtour/OpenSans-Semibold.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/OpenSans-Semibold.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/OpenSans-Semibold.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/OpenSans-Semibold.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/OpenSans-Semibold.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('../../fonts/topvietnamtour/OpenSans-Regular.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/OpenSans-Regular.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/OpenSans-Regular.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/OpenSans-Regular.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/OpenSans-Regular.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('../../fonts/topvietnamtour/OpenSans-Bold.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/OpenSans-Bold.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/OpenSans-Bold.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/OpenSans-Bold.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/OpenSans-Bold.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans-Italic';
+    src: url('../../fonts/topvietnamtour/OpenSans-Italic.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/OpenSans-Italic.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/OpenSans-Italic.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/OpenSans-Italic.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/OpenSans-Italic.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MarckScript-Regular';
+    src: url('../../fonts/topvietnamtour/MarckScript-Regular.eot?v=4.0.3');
+    src: url('../../fonts/topvietnamtour/MarckScript-Regular.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../../fonts/topvietnamtour/MarckScript-Regular.woff?v=4.0.3') format('woff'), url('../../fonts/topvietnamtour/MarckScript-Regular.ttf?v=4.0.3') format('truetype'), url('../../fonts/topvietnamtour/MarckScript-Regular.svg?v=4.0.3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    color:#333333;
+    font-family: "OpenSans-Regular","Open Sans",sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+img{
+    max-width: 100% !important;
+}
+a{
+    color: #ba6842;
+}
+#header_menu{
+    display: none;
+}
+#close_in{
+    display: none;
+}
+header{
+    padding: 11px 0 0 0;
+}
+#logo{
+
+}
+.span-phone {
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/iconphone.png") no-repeat scroll left center;
+    padding-left: 30px;
+    color:#666;
+    font-size: 16px;
+    font-family: OpenSans-Semibold;
+    float: left;
+}
+.sticky .span-phone{
+    color:#999
+}
+
+.top-menu{
+    float: left;
+    padding: 0 12px;
+}
+.nav-top{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border-left: 1px solid #dadada;
+    border-right: 1px solid #dadada;
+}
+.li_top_menu {
+    display: inline-block;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+.a_top_menu{
+    color: #666666;
+    font-size: 12px;
+    font-family: OpenSans-Regular;
+}
+.li_top_menu +.li_top_menu{
+    background: url(../../images/topvietnamtour/icon1.jpg) no-repeat center left;
+    padding-left: 14px;
+}
+.top-right-header{
+    float: right;
+    margin-right: 20px;
+}
+.a-become-partner{
+    font-family: OpenSans-Regular;
+    color: #ba6842;
+    font-size: 16px;
+    text-transform: uppercase;
+    position: relative;
+    float: left;
+}
+
+.a-become-partner::after {
+    border: 2px solid #ba6842;
+    bottom: 50%;
+    content: "";
+    display: inline-block;
+    height: 9px;
+    margin-bottom: -6px;
+    position: absolute;
+    transform: rotate(-45deg);
+    width: 9px;
+}
+a:focus{
+    outline: none;
+    outline-offset: 0;
+}
+.a-become-partner::after {
+    border-left: medium none;
+    border-top: medium none;
+    right: -16px;
+}
+/* menu */
+.main-menu ul li {
+    display: inline-block;
+}
+.main-menu a {
+    white-space: nowrap;
+}
+.main-menu a {
+    transition: all 0.3s ease 0s;
+}
+.main-menu ul li, .main-menu ul li a {
+    margin: 0;
+    padding: 0;
+}
+.main-menu ul{
+    margin: 0;
+    padding: 0;
+}
+.main-menu ul.ul_main_menu{
+    position: relative;
+}
+.main-menu ul li a {
+    display: block;
+    line-height: 20px;
+}
+.main-menu > ul > li > a {
+    color: #333333;
+    font-size: 16px;
+    font-family: OpenSans-Semibold;
+    text-transform: uppercase;
+    padding: 0 12px 15px;
+}
+.ul_main_menu{
+    float: right;
+}
+.main-menu {
+    width: 100%;
+}
+.main-menu {
+    position: relative;
+    z-index: 9;
+    margin-top: 30px;
+    float: right;
+}
+.main-menu > ul > li.li_last > a{
+    padding-right: 0;
+}
+/* menu */
+.carousel-indicators li {
+    background: #ffffff none repeat scroll 0 0;
+    height: 13px;
+    margin: 0 5px;
+    width: 13px;
+}
+.carousel-indicators .active {
+    background: #b62026 none repeat scroll 0 0;
+    height: 14px;
+    width: 14px;
+    margin: 0 5px;
+}
+.img-slide {
+    width: 100%;
+    height: auto;
+    max-height: 504px;
+}
+.carousel-indicators{
+    top:15px;
+    right:12px;
+    left: auto;
+    width: auto;
+    margin-left: 0;
+    margin-bottom: 0;
+    z-index: 2;
+}
+.h1-index{
+    font-family: MyriadPro-BoldCond;
+    font-size: 40px;
+    text-transform: capitalize;
+    margin: 10px 0 15px 0;
+}
+.box-title-index{
+    text-align: center;
+    padding: 20px 0;
+}
+
+.span-line{
+    background:  #faa61a;
+    width: 60px;
+    height: 5px;
+    display: inline-block;
+}
+.bestseller-top{
+    position: relative;
+}
+.icon-attr{
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+.img-bestseller{
+    width: 100%;
+    height: auto;
+}
+.item-whyus-hover .whyus-post{
+    color:#faa922
+}
+.item-whyus .whyus-post .pull-left span{
+    background-position: top left;
+}
+.item-whyus-hover .whyus-post .pull-left span{
+    background-position: bottom left;
+}
+.a-name-bestseller{
+    font-family: LCALLIG;
+    color:#9a5c0c;
+    font-size: 22px;
+    float: left;
+    width: calc(100% - 88px);
+    padding: 5px 14px 0 14px;
+}
+.span-day{
+    background: url(../../images/topvietnamtour/day.png) no-repeat left center;
+    text-align: center;
+    width: 47px;
+    height: 46px;
+    font-family: "Times New Roman";
+    font-size: 11px;
+    line-height: 1em;
+    padding-top: 14px;
+    float: left;
+}
+.span-day strong{
+    font-size: 22px;
+}
+.bestseller-name{
+    padding: 13px 0 4px 0;
+}
+.span-view-more{
+    display: inline-block;
+    background: url('../../images/topvietnamtour/icon2.png') no-repeat 13px 7px;
+    background-color: #faa61a;
+    height: 41px;
+    width: 41px;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    float: right;
+}
+.span-view-more:hover,.hover.span-view-more{
+    background-color: #BA6842;
+}
+a:hover,a:focus, a.hover{
+    text-decoration: underline;
+    color:#faa61a
+}
+.span-pencil{
+    background: url("../../images/topvietnamtour/pencil.png") no-repeat;
+    display: inline-block;
+    width: 19px;
+    height: 17px;
+}
+.summary-tour-best{
+}
+.pricemin{
+    color:#01aef0;
+    font-size: 18px;
+    font-weight: bold;
+}
+.span-tour-type{
+    color:#666666;
+    font-size:14px
+}
+.f14{
+    font-size: 14px;
+}
+.row-tour-bestseller{
+    margin-bottom: 20px;
+}
+.row-tour-bestseller:nth-of-type(2n+1){
+    clear: both;
+}
+.row-tour-itemlist{
+    margin-bottom: 20px;
+}
+.row-tour-itemlist:nth-of-type(3n+1){
+    clear: both;
+}
+.bestseller-type-price{
+    padding-bottom: 5px;
+}
+.row-tour-itemlist .a-name-bestseller{
+    font-size: 18px;
+}
+.a_view_condition{
+    color: #ba6842;
+    text-decoration: underline;
+    float: left;
+    font-family: OpenSans-Bold;
+    font-size: 16px;
+    margin-top: 12px;
+    display: inline-block;
+}
+.priceold{
+    text-decoration: line-through;
+    color:#999;
+    font-size: 17px;
+    padding-right: 5px;
+}
+.row-tour-hot{
+    margin-bottom: 30px;
+}
+.row-tour-hot:nth-of-type(3n+1){
+    clear: both;
+}
+.box-tour-top{
+    padding-top: 15px;
+}
+.span-day-top{
+    background: url(../../images/topvietnamtour/day2.png) no-repeat left top;
+    text-align: center;
+    width: 47px;
+    height: 46px;
+    font-family: "Times New Roman";
+    font-size: 11px;
+    line-height: 1em;
+    padding-top: 14px;
+    display: table-cell;
+    color:#fff;
+    margin-right: 15px;
+}
+.span-day-top strong{
+    font-size: 22px;
+}
+.tour-top-name{
+    background: rgba(0,0,0,0.6);
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+.tour-top-name-daily{
+    background: rgba(0,0,0,0.6);
+}
+.tour-daily-info{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.a-name-top{
+    font-family: LCALLIG;
+    font-size: 17px;
+    color:#fff;
+    display: table-cell;
+    padding-left: 10px;
+    vertical-align: middle;
+}
+.tour-top-name-inner{
+    padding: 10px 13px;
+    display: table;
+    width: 100%;
+}
+.tour-top{
+    position: relative;
+    margin-bottom: 10px;
+}
+.a-customize-index{
+    color:#4e200a;
+    font-family: MyriadPro-Semibold;
+    font-size: 22px;
+    border-bottom: 2px solid #e59104;
+    padding: 8px 30px 8px 30px;
+    float: right;
+    background: #faa61a url("../../images/topvietnamtour/icon2.png") no-repeat scroll 95% 13px;
+}
+.box-customize-index{
+    padding-bottom: 30px;
+}
+.a-customize-index:hover,.a-customize-index:focus{
+    color:#FFFFFF;
+    text-decoration: none;
+}
+.box-about-desc{
+    background: #ba6842;
+    padding: 5px;
+    color:#fff;
+}
+.box-about-desc-2{
+    border: 1px dashed #333;
+    padding: 15px 8px 19px 11px;
+}
+.a-read-more-about{
+    color:#fdc86f;
+    font-size: 16px;
+}
+.h2-about-index{
+    font-family: MyriadPro-Cond;
+    text-transform: uppercase;
+    font-size:40px;
+    margin: 10px 0 0 0;
+}
+.box-about-desc-inner{
+    font-size:17px;
+    padding: 18px 0 18px 0;
+}
+.img-about-index{
+    width: 100%;
+    height: auto;
+}
+.box-about{
+    padding-bottom: 25px;
+}
+.about-slide-text{
+    position: absolute;
+    right: 31px;
+    bottom: 25px;
+    z-index: 9999;
+    text-transform: uppercase;
+    color:#fff
+}
+.title-about{
+    font-family: MyriadPro-Bold;
+    font-size: 30px;
+    text-shadow: 1px 3px 3px #000000;
+    text-align: right;
+    color:#fff
+}
+.a-see-more-about{
+    float: right;
+    font-family: MyriadPro-Semibold;
+    font-size: 20px;
+    color:#fff;
+    border: 5px solid #FFFFFF;
+    padding: 0px 20px;
+    text-shadow: 1px 3px 3px #000000;
+    margin-top: 7px;
+}
+.a-see-more-about:hover,.a-see-more-about:focus{
+    color:#faa61a;
+    border-color: #faa61a;
+    text-decoration: none;
+}
+#about .carousel-indicators{
+    right: auto;
+    left: 25px;
+    top: auto;
+    bottom: 15px;
+}
+#about{
+    position: relative;
+}
+.box-about-icon a{
+    background-position: top center;
+    height: 70px;
+    width: 20%;
+    float: left;
+    padding: 0 3px;
+    background-repeat: no-repeat;
+}
+.box-about-icon{
+    margin: 14px -3px 0 -3px;
+}
+.box-about-icon .about-icon-1{
+    background-image: url("../../images/topvietnamtour/about1.jpg");
+    margin-left: 0;
+}
+.about-icon-2{
+    background-image: url("../../images/topvietnamtour/about2.jpg");
+}
+.about-icon-3{
+    background-image: url("../../images/topvietnamtour/about3.jpg");
+}
+.about-icon-4{
+    background-image: url("../../images/topvietnamtour/about4.jpg");
+}
+.about-icon-5{
+    background-image: url("../../images/topvietnamtour/about5.jpg");
+}
+.box-about-left{
+    float: left;
+    width: 34.5%;
+}
+.box-about-right{
+    float: right;
+    width: 65.4167%;
+}
+.box-about-icon a:hover{
+    background-position: bottom center;
+}
+.box-whyus{
+    background: #f4f5f8;
+    padding: 20px 10px 20px 10px;
+    /*margin: 0 -7px;*/
+}
+.h3-whyus{
+    color:#f9a51a;
+    font-family: MyriadPro-Bold;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.h3-whyus span{
+    color:#ba6842
+}
+.row-whyus{
+    min-height: 115px;
+    float: left;
+    padding: 0 4px;
+    text-align: center;
+    border-right: 1px solid #CCCCCC;
+}
+.row-whyus:last-child:hover{
+    background: none;
+}
+.row-whyus:last-child{
+    border-right: 0;
+}
+
+.top-whyus {
+    border-bottom: 1px solid #efeeee;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+}
+.h3-whyus {
+    color: #f9a51a;
+    font-size: 50px;
+    margin-bottom: 30px;
+    margin-top: 0;
+    font-family: MyriadPro-Bold;
+}
+.span-icon {
+    display: inline-block;
+    transition: all 0.35s ease 0s;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.a-whyus:hover .span-icon{
+    background-position: bottom left;
+}
+.icon1 {
+
+    height: 40px;
+    width: 55px;
+}
+.a-whyus:hover .icon1 {
+
+}
+.txt-why {
+    float: left;
+    text-align: center;
+    width: 100%;
+    color:#666666;
+    font-size: 13px;
+    font-family: MyriadPro-Regular;
+    font-weight: normal;
+}
+.row-whyus a {
+    color: #666666;
+}
+.txt-why h3 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #ba6842;
+    margin: 0 0 5px;
+    word-break:break-all;
+}
+.icon2 {
+
+    width: 49px;
+    height: 49px;
+}
+.row-whyus:hover{
+    background: #edeeef;
+}
+.a-whyus:hover .icon2 {
+
+
+}
+.icon3 {
+    width: 66px;
+    height: 48px;
+}
+.a-whyus:hover .icon3 {
+
+}
+.icon4 {
+
+    width: 54px;
+    height: 48px;
+}
+.a-whyus:hover .icon4 {
+
+}
+.icon5 {
+
+    width: 47px;
+    height: 48px;
+}
+.a-whyus:hover .icon5 {
+
+}
+
+.icon6 {
+
+    width: 48px;
+    height: 46px;
+ }
+.a-whyus:hover .icon6 {
+
+}
+
+.icon7 {
+
+    width: 77px;
+    height: 40px;
+}
+.a-whyus:hover .icon7 {
+
+}
+.row-whyus-1{
+    width: 13%;
+}
+.row-whyus-2{
+    width: 13%;
+}
+.row-whyus-3{
+    width: 9%;
+}
+.row-whyus-4{
+    width: 13%;
+}
+.row-whyus-5{
+    width: 12%;
+}
+.row-whyus-6{
+    width: 17%;
+}
+.row-whyus-7{
+    width: 15%;
+}
+.row-whyus-8{
+    width: 8%;
+    line-height: 1.3em;
+}
+.footer-copyright{
+    background: #5a3403;
+    color:#ccc;
+    font-size:14px;
+    padding: 9px 0;
+}
+footer{
+    margin: 0 -10px;
+    padding-top: 30px;
+    padding-bottom: 45px;
+    font-size: 14px;
+    color:#666666;
+}
+.box-newsletter{
+    width: 20%;
+    float: left;
+    padding: 0 10px;
+}
+.footer-dest{
+    float: left;
+    width: 16%;
+    padding: 0 10px;
+}
+.footer-resource{
+    float: left;
+    width: 16%;
+    padding: 0 10px;
+}
+.contact-footer{
+    float: left;
+    width: 22%;
+    padding: 0 10px;
+}
+.title-footer{
+    font-family: Times New Roman, Times, Serif;
+    font-style: italic;
+    font-size: 25px;
+    background: url(../../images/topvietnamtour/title.png) repeat-x bottom left;
+    padding-bottom: 9px;
+    margin-bottom: 25px;
+    padding-left: 10px;
+}
+.footer_menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.a_footer_menu{
+    color:#666666;
+}
+.row-footer-contact-address{
+    background: url(../../images/topvietnamtour/home.png) no-repeat 0 5px;
+    padding-left: 25px;
+    margin-bottom: 7px;
+}
+.row-footer-contact-phone{
+    background: url(../../images/topvietnamtour/phone.png) no-repeat 0 5px;
+    padding-left: 25px;
+    margin-bottom: 7px;
+}
+.row-footer-contact-email{
+    background: url(../../images/topvietnamtour/email.png) no-repeat 0 5px;
+    padding-left: 25px;
+    margin-bottom: 7px;
+}
+.footer-contact-bt{
+    padding-left: 25px;
+    padding-top: 5px;
+}
+.a-footer-contact-bt{
+    display: inline-block;
+    background: #faa61a ;
+    color: #FFFFFF;
+    padding: 1px 10px;
+}
+.a-footer-contact-bt:hover, .a-footer-contact-bt:focus{
+    background: #BA6842;
+    color:#fff;
+    text-decoration: none;
+}
+.a-view-map-footer{
+    color:#ba6842;
+    padding-left: 10px;
+}
+.pathway {
+    font-size: 13px;
+}
+.pathway div {
+    float: left;
+    padding: 0 10px
+}
+.pathway div {
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/pathwat.png") no-repeat scroll 100% 5px;
+    padding-right: 17px;
+}
+.pathway div:last-child{
+    background: none;
+}
+.pathway div:last-child span{
+    color:#666
+}
+.pathway div  span{
+    color: #00aeef;
+}
+.pathway div a {
+    color: #00aeef;
+}
+.pw_item_last {
+    color: #666;
+}
+.content{
+    padding-top: 15px;
+}
+.pathway .pw_item:first-child{
+    padding-left: 0;
+}
+.h1-title{
+    font-family: MyriadPro-Cond;
+    font-size:40px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+.h1-title a{
+    color: #333333;
+}
+.h1-title span{
+    font-family: MyriadPro-Semibold;
+}
+.h2-title{
+    font-size: 24px;
+    margin-bottom: 20px;
+    color:#666666;
+    font-family: Montserrat-Regular;
+}
+.cattour-desc h1, .cattour-desc h2, .cattour-desc h3{
+    font-size: 25px;
+    margin-top: 0;
+    color:#666666;
+    text-shadow: 0 0 0 #666;
+    margin-bottom: 0;
+}
+.subcat-dest{
+    padding-top: 10px;
+}
+.cattour-desc{
+    padding-top: 20px;
+}
+.img-about-hot{
+   float: right;
+    width: 246px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+.summary-about-hot{
+    font-style: italic;
+    padding-bottom: 15px;
+}
+.h3-title-faq{
+    background: url(../../images/topvietnamtour/title.png) repeat-x bottom left;
+    padding-bottom: 13px;
+    font-family: MyriadPro-Semibold;
+    font-size: 22px;
+}
+.a-faq{
+    text-transform: capitalize;
+}
+.h3-title-right{
+    color:#ba6842;
+    background: url(../../images/topvietnamtour/title.png) repeat-x bottom left;
+    padding-bottom: 10px;
+    font-family: MyriadPro-Cond;
+    font-size: 22px;
+}
+
+.ul-right{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+.li-right{
+    border-bottom: 1px solid #CCCCCC;
+    padding: 6px 0;
+    background: url(../../images/topvietnamtour/arrow3.png) no-repeat 0 13px;
+    padding-left: 15px;
+}
+.sub_category_team{
+    padding-top: 10px;
+}
+.support-phone a:hover, .support-phone a:focus{
+    color:#fff;
+    text-decoration: none;
+}
+.li-right i{
+    color:#faa61a;
+    font-size: 12px;
+}
+
+.a-right{
+    color:#333333;
+}
+.a-right:hover, .a-right:focus{
+    color:#faa61a;
+    text-decoration: none;
+}
+.box-right{
+    margin-bottom: 27px;
+}
+.support-phone{
+    padding-bottom: 15px;
+    position: relative;
+}
+.support-phone-left{
+    display: inline-block;
+    position: relative;
+    width: 43px;
+    height: 43px;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    border:1px solid #CCCCCC;
+    text-align: center;
+    z-index: 2;
+    background-image: url('../../images/topvietnamtour/phonesupport.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+
+}
+.support-phone-right{
+    margin-left: -34px;
+    padding-left: 38px;
+    z-index: 1;
+    border: 1px solid #CCCCCC;
+    line-height: 1em;
+    color:#ba6842;
+    font-family: MyriadPro-Semibold;
+    font-size: 18px;
+    width: calc(100% - 14px);
+    display: inline-block;
+    top: -6px;
+    position: relative;
+}
+.support-phone-left:hover{
+    background-position: bottom left;
+}
+.box-support{
+    padding-left: 30px;
+}
+.support-email-left{
+    display: inline-block;
+    position: relative;
+    width: 43px;
+    height: 43px;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    border:1px solid #CCCCCC;
+    text-align: center;
+    z-index: 2;
+    background-image: url('../../images/topvietnamtour/emailsupport.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+
+}
+.support-email-left:hover{
+    background-position: bottom left;
+}
+
+.left-content{
+    width: 72.25%;
+    float: left;
+}
+.left-content-catlist{
+    width: 67.78%;
+    float: left;
+}
+.right-content-catlist{
+    width: 30.5%;
+    float: right;
+}
+.right-content{
+    width: 24.5%;
+    float: right;
+}
+.title-brochure{
+    font-size: 20px;
+    font-family: MyriadPro-Semibold;
+}
+.download-brochure, .send-brochure{
+    padding-top: 5px;
+}
+.download-brochure a{
+    background: url(../../images/topvietnamtour/brochure1.jpg) no-repeat 0 4px;
+    padding-left: 24px;
+}
+.send-brochure a{
+    background: url(../../images/topvietnamtour/brochure2.jpg) no-repeat 0 4px;
+    padding-left: 24px;
+}
+.download-brochure a, .send-brochure a{
+    color:#999999;
+    font-size:14px
+}
+.summary-page{
+    padding-bottom: 20px;
+}
+.row-team-hot:nth-of-type(2n+1){
+    clear: both;
+}
+.row-team-hot{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.team-hot-img{
+    width: 235px;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+.div-team-hot{
+    padding-bottom: 10px;
+}
+.team-hot-name{
+    color: #ba6842;
+    font-family: MyriadPro-Semibold;
+    font-size: 25px;
+}
+.team-hot-position{
+    font-size: 18px;
+    color:#666666;
+}
+.team-hot-img:hover{
+    border: 3px solid #fab035;
+    padding: 2px;
+    transition: all 0.25s ease 0s;
+}
+.row-team:nth-of-type(3n+1){
+    clear: both;
+}
+.row-team{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.team-hot{
+    padding-top: 10px;
+    padding-bottom: 15px;
+    margin: 0 50px;
+}
+.div-team-getlist{
+    padding:0 25px 5px 25px
+}
+.img-team-detail{
+    border: 3px solid #fab035;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 100%;
+    max-width: 250px;
+}
+.left-team-detail{
+    margin-top: 30px;
+    text-align: center;
+}
+.team-social{
+    padding: 15px 0;
+}
+.team-social i{
+    background-color:#ceb78d;
+    color:#FFFFFF;
+    height: 30px;
+    width: 30px;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    line-height: 30px;
+    margin: 0 2px;
+}
+.team-social .fa-facebook:hover{
+    background-color: #3b589c;
+    color:#000
+}
+.team-social .fa-twitter:hover{
+    background: #00aaf0;
+    color:#000;
+}
+.team-social .fa-google-plus:hover{
+    color:#000;
+    background-color: #d64136;
+}
+.team-social .fa-skype:hover{
+    background: #00aff0;
+    color:#000;
+}
+.team-phone a{
+    color:#BA6842;
+}
+.team-phone{
+    text-align: left;
+    border: 1px solid #CCCCCC;
+    padding: 5px 10px 5px 15px;
+    color:#BA6842;
+    font-family: MyriadPro-Semibold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.team-phone i{
+    padding-right: 15px;
+}
+.team-phone:hover{
+    background-color: #ba6842;
+    color:#fff;
+}
+.team-phone:hover a{
+    color:#fff;
+    text-decoration: none;
+}
+.team-gallery{
+    padding: 40px 0;
+}
+.h3-team-gallery{
+    font-family: MyriadPro-Cond;
+    font-size: 40px;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    margin-top: 0;
+}
+.h3-team-gallery span{
+    font-family: MyriadPro-Semibold;
+}
+.team-gallery-row{
+    margin: 0 -1px;
+    padding-top: 20px;
+}
+.team-gallery-item{
+    float: left;
+    width: 25%;
+    padding: 1px 1px;
+}
+.img-gallery-team{
+    width: 100%;
+}
+.team-similar-img{
+    width: 100%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+.team-similar-img:hover{
+    border: 2px solid #fab035;
+    padding: 2px;
+    transition: all 0.25s ease 0s;
+}
+.team-similar-name{
+    color:#ba6842;
+    font-family: MyriadPro-Semibold;
+    font-size: 14px;
+}
+.row-team-similar{
+    padding-bottom: 15px;
+}
+.row-team-similar:nth-of-type(3n+1){
+    clear: both;
+}
+.div-view-more-gallery{
+    text-align: right;
+    padding-top: 10px;
+}
+.view-more-gallery{
+    color:#faa61a;
+    font-size: 14px;
+    cursor: pointer;
+}
+.slide-text{
+    position: absolute;
+    font-size:22px;
+    font-family: OpenSans-Bold;
+    color:#fff;
+    text-shadow: 1px 3px 3px #000000;
+    bottom: 150px;
+    left: 35px;
+}
+.slide-text-detail{
+    font-size:30px;
+    bottom: 50px;
+}
+.a-view-slide{
+    background: #fff url("../../images/topvietnamtour/icon3.png") no-repeat scroll 8px 5px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    display: inline-block;
+    float: right;
+    height: 27px;
+    width: 27px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.a-view-slide:hover{
+    background-color: #4db848;
+}
+.team-tour-inner{
+    padding-top: 25px;
+}
+.team-img-row{
+    margin: 0 -1px;
+}
+.team-img-item{
+    float: left;
+    width: 33.3333%;
+    padding: 0 1px;
+}
+.img-img-team{
+    width: 100%;
+}
+.team-img{
+    margin-top: 25px;
+}
+.respon-img{
+    width: 100%;
+}
+.row-respon{
+    padding-bottom: 20px;
+}
+.row-respon:nth-of-type(2n+1){
+    clear: both;
+}
+.respon-name{
+    color:#ba6842;
+    font-size: 30px;
+    display: block;
+}
+.respon-name.hover{
+    text-decoration: underline;
+}
+.respon-name:hover .span-view-more,
+.respon-name.hover .span-view-more
+{
+    background-color: #ba6842;
+}
+.box-adv-responsible{
+    background: #f6f5f5;
+    padding: 14px;
+}
+.row-adv-responsible{
+    background: #FFFFFF;
+    margin-bottom: 5px;
+}
+.a-right-active{
+    color: #faa922;
+}
+.top-contact-inner{
+    background: #f7f6f6;
+    padding: 10px 30px 17px 30px;
+    -moz-border-radius: 5px ;
+    border-radius: 5px ;
+    color:#bb6b46;
+    font-size: 18px;
+    margin-right: 30px;
+}
+.phone-conact{
+    color:#ef3f23;
+    font-size: 30px;
+    font-family: OpenSans-Semibold;
+    padding-bottom: 5px;
+}
+.a-contact{
+    color:#4e200a;
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/icon2.png") no-repeat scroll right top;
+    padding-right: 22px;
+}
+.div-a-contact{
+    float: left;
+    font-size: 20px;
+    background-color: #faa61a;
+    border-bottom: 2px solid #e59104;
+    color: #4e200a;
+    font-family: MyriadPro-Semibold;
+    padding: 5px 15px 5px 20px;
+    cursor: pointer;
+}
+.a-contact:hover,.a-contact:focus{
+    color:#fff;
+    text-decoration: none;
+}
+.title-contact{
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 5px;
+    margin-bottom: 25px;
+}
+.bottom-contact{
+    padding-top: 20px;
+}
+.form input[type="text"], .form label.selectlabel {
+    border: medium none;
+    font-weight: normal;
+    padding: 0.3em;
+}
+input[type="text"], textarea {
+    outline: medium none;
+    transition: box-shadow 0.3s ease-in-out 0s;
+}
+.deslabel label {
+    -moz-user-select: none;
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/newcheckbox.png") no-repeat scroll 0 5px;
+    display: inline-block;
+    padding-left: 1.3em;
+    padding-right: 0;
+    margin-top: 5px;
+    font-weight: normal;
+}
+.deslabel label.fchecked {
+    background-position: 0 -42px;
+}
+.title-form{
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.travel-interest-row label{
+    font-size:14px
+}
+.title-form span{
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/day3.png") no-repeat scroll left center;
+    float: left;
+    color:#ba6842;
+    font-size: 22px;
+    font-family: MyriadPro-BoldCond;
+    height: 34px;
+    line-height: 34px;
+    text-align: center;
+    width: 35px;
+    margin-right: 10px;
+}
+.form-inner{
+    background: #efefef;
+    padding: 20px 30px;
+}
+.contact-desct-outer{
+    margin: 0 -10px;
+}
+.contact-dest-row{
+    float: left;
+    width: 20%;
+    padding: 0 10px;
+}
+.travel-interest{
+    margin: 0 -6px;
+}
+.travel-interest-row{
+    float: left;
+    width: 16.6667%;
+    padding: 0 6px;
+}
+.form  label.selectlabel span {
+    background: #ffffff url("../../images/topvietnamtour/selectxiala.png") no-repeat scroll right 8px;
+    display: block;
+    cursor: pointer;
+}
+.formitem {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    display: none;
+    max-height: 120px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: absolute;
+    top: 4em;
+    z-index: 10;
+    padding: 0;
+}
+.form li {
+    margin-right: 2em;
+    max-width: 340px;
+    position: relative;
+}
+.form .formitem li {
+    cursor: pointer;
+    float: none;
+    font-size: 0.9375em;
+    height: 1.5em;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    overflow: hidden;
+    padding: 0 0.3em;
+    width: 100%;
+}
+.form-row{
+    margin-bottom: 15px;
+}
+.form label.selectlabel {
+    background-color: #ffffff;
+    display: block;
+    height:30px;
+    overflow: hidden;
+}
+.form .formitem li:hover {
+    background-color: #be140d;
+    color: #ffffff;
+}
+.hasDatepicker{
+    background: url(../../images/topvietnamtour/dateicon.png) 190px center no-repeat;
+    background-color: #FFFFFF;
+    width: 215px;
+}
+label.numberpeople{
+    width: 80px;
+}
+.form-row p{
+    margin-bottom: 5px;
+}
+.textarea-more-request{
+    height: 190px;
+    padding: 0.5% 1%;
+    width: 98%;
+}
+input[type="text"], textarea {
+    border: 1px solid #dddddd;
+    outline: medium none;
+    transition: box-shadow 0.3s ease-in-out 0s;
+}
+
+.form .text205{
+    width: 90%;
+}
+.form  input[name="FullName"] {
+    width: 78%;
+}
+.form label.nametitle {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20%;
+}
+.bt-submit{
+    background-color: #faa61a;
+    color:#620505;
+    font-size: 30px;
+    font-family: MyriadPro-Regular;
+    padding: 5px 30px;
+    border: none;
+}
+.bt-submit:hover{
+    background-color: #ba6842;
+    color:#fff;
+}
+.online-active{
+    color:#fff;
+}
+header{
+    background: #fff;
+}
+header.sticky{
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+    padding: 5px 0 0 0;
+    /*background: rgba(0, 0, 0, 0) linear-gradient(to right, #bfc1c8 0%, #f6f3eb 19%, #f6f3eb 49%, #f6f3eb 81%, #bfc1c8 100%) repeat scroll 0 0;*/
+    background: url(../../images/topvietnamtour/bg-home-slider.jpg);
+    box-shadow:0 2px 10px -2px rgba(0, 0, 0, 0.41);
+}
+header.sticky .top-right-header{
+    display: none;
+}
+
+
+
+.rating small{
+    color:#999;
+    font-size:14px
+}
+.rating .icon-smile{
+    color:#ccc:
+}
+.rating{
+    padding-bottom: 5px;
+}
+.a-become-partner-2{
+    float: right;
+    color:#ba6842;
+    font-size: 18px;
+    font-family: OpenSans-Bold;
+    text-transform: uppercase;
+    margin-top: 12px;
+}
+.testimonials blockquote {
+    margin-bottom: 5px;
+}
+.shortreview {
+    height: 143px;
+    overflow: hidden;
+}
+.testimonials  blockquote {
+    border-image: url("../../images/topvietnamtour/curly.png") 1 20 1 20;
+    border-style: solid;
+    border-width: 1px 0 1px 20px;
+    font-size: 14px;
+    padding-left: 0.5em;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.testimonial-footer{
+    float: right;
+    width: 26%;
+}
+.text-info a {
+    color: #faa61a;
+    font-size: 14px;
+    text-shadow: 0 0 0 #faa61a;
+}
+.text-info .a-custname-test{
+    color:#8da870;
+    font-size: 14px;
+}
+.a-custname-test span{
+    color:#666666
+}
+.test-custname{
+    padding-left: 18px;
+}
+.row-test-list{
+    padding: 10px 0;
+}
+.img-test-itemlist{
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 100%;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+.img-test-itemlist:hover{
+    border: 1px solid #fab035;
+}
+.test-custname-itemlist{
+    color:#bb6a45;
+    font-size: 16px;
+    text-align: center;
+    font-family: ANCUUI;
+    padding-top: 5px;
+}
+.test-summary-sortlist{
+    height: 64px;
+    overflow: hidden;
+}
+.right-test-itemlist{
+    border: 1px solid #ccc;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px 15px 15px 20px;
+    position: relative;
+}
+.arrow-test{
+    position: absolute;
+    background: url('../../images/topvietnamtour/arrow.jpg') no-repeat top left;
+    width: 14px;
+    height: 20px;
+    top: 40px;
+    left: -14px;
+}
+.test-country-itemlist{
+    color:#999999;
+    font-size: 12px;
+    text-align: center;
+}
+.footercontrols a{
+    color:#faa61a
+}
+.footercontrols a:hover{
+    color:#ba6842;
+
+}
+.footercontrols{
+    position: absolute;
+    right: 0;
+    top: -20px;
+}
+.test-title-itemlist{
+    font-size: 18px;
+    text-shadow: 0 0 0 #333;
+}
+.morebutton-list, .lessbutton-list,.a_view_more_top{
+    color:#faa61a;
+    display: inline-block;
+    margin-top:8px;
+    text-shadow: 0 0 0 #faa61a;
+    cursor: pointer;
+}
+.div_view_more{
+    float: right;
+}
+.left-test-itemlist{
+    padding-top: 20px;
+}
+.row-tour-deal .col-md-4{
+    padding-right: 0;
+}
+.h3-tour-deal{
+    font-family: MyriadPro-Cond;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-bottom: 7px;
+    border-bottom: 2px solid #faa61a;
+    margin-bottom: 0;
+}
+.h3-tour-deal span{
+    font-family: MyriadPro-Semibold;
+
+}
+.row-tour-deal{
+    border-bottom: 1px solid #CCCCCC;
+    padding: 12px 0;
+    font-size: 14px;
+}
+.row-tour-deal:last-child{
+    border: none;
+    padding-bottom:0;
+}
+.box-tour-deal{
+    margin-bottom: 20px;
+}
+.row-tour-deal p{
+    margin-bottom: 0;
+}
+.img-tour-deal{
+    width: 100%;
+}
+.a-tour-deal{
+    color:#333;
+    font-family: OpenSans-Semibold;
+}
+.support-cust-left{
+    display: inline-block;
+    position: relative;
+    width: 43px;
+    height: 43px;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    border:1px solid #CCCCCC;
+    text-align: center;
+    z-index: 2;
+    background-image: url('../../images/topvietnamtour/cust.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+
+}
+
+.support-cust-right{
+    margin-left: -34px;
+    padding-left: 38px;
+    z-index: 1;
+    border: 1px solid #CCCCCC;
+    line-height: 1em;
+    color:#ba6842;
+    font-family: MyriadPro-Semibold;
+    font-size: 18px;
+    width: calc(100% - 14px);
+    display: inline-block;
+    top: -15px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    position: relative;
+}
+.support-cust-right:hover{
+    background: #ba6842;
+    color:#FFFFFF;
+}
+.support-cust-right:hover a{
+    color:#fff;
+}
+.support-cust-right:hover .support-cust-left{
+    background-position: bottom left;
+}
+.a-guide-hotlist span{
+    display: block;
+    height: 94px;
+    width: 94px;
+    background-position:top left;
+    background-repeat:no-repeat;
+}
+.a-guide-hotlist:hover{
+    color:#ba6842;
+    text-decoration: none;
+}
+.a-guide-hotlist{
+    display: block;
+    text-align: center;
+    width: 94px;
+    color:#333;
+}
+.a-guide-hotlist:hover span{
+    background-position: bottom left;
+}
+.guide-hotlist {
+    padding-top:20px;
+}
+.box-catguide-tour{
+    padding-top: 15px;
+}
+.box-catguide-tour-inner{
+    margin-top: 25px;
+}
+.jcarousel-team ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 20000em;
+}
+.jcarousel-team li {
+    float: left;
+}
+.jcarousel-team li figure {
+    padding: 0 12px;
+    text-align: center;
+}
+.img-team-slide{
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 100%;
+}
+.jcarousel-team ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 20000em;
+}
+.jcarousel-wrapper {
+    position: relative;
+    padding: 0 15px;
+}
+.jcarousel-team {
+    overflow: hidden;
+    position: relative;
+}
+.div-img-team-slide{
+    padding: 0 5px 7px 5px;
+}
+.span-free-call{
+    font-family: OpenSans-Semibold;
+    font-size: 16px;
+    color:#666;
+    background: url(../../images/topvietnamtour/phone2.png) no-repeat left center;
+    padding-left: 30px;
+    margin-left: 10px;
+}
+.box-free-call{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: right;
+}
+.a-team-slide{
+    color:#ba6842;
+    font-family: MyriadPro-Semibold;
+}
+.jcarousel-control-prev {
+    color: #faa61a;
+    right: 0;
+    position: absolute;
+    top: 30px;
+    z-index: 9;
+}
+.jcarousel-control-next {
+    color: #faa61a;
+    position: absolute;
+    left: 0;
+    top: 30px;
+    z-index: 9;
+}
+.box-team-guide{
+    padding: 30px 0;
+}
+.title-team-guide{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.a-customize-team span{
+    background: url(../../images/topvietnamtour/icon2.png) no-repeat right top;
+    float: right;
+    height: 25px;
+    width: 30px;
+    margin-top: 3px;
+}
+
+.a-customize-team:hover,.a-customize-index:focus{
+    color:#FFFFFF;
+    text-decoration: none;
+}
+.a-customize-team {
+    border-bottom: 2px solid #e59104;
+    color: #4e200a;
+    float: right;
+    font-family: MyriadPro-Semibold;
+    font-size: 22px;
+    padding: 8px 35px 8px 20px;
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/icon2.png") no-repeat scroll 95% 12px;
+    background-color: #faa61a;
+}
+.img-team-slide:hover{
+    border: 2px solid #fab035;
+    padding: 2px;
+    transition: all 0.25s ease 0s;
+}
+.img-map-catguide{
+    border: 1px solid #ccc;
+}
+.div-map-catguide{
+    text-align: right;
+}
+.a-name-catguide{
+    color:#bd6e49;
+    font-family: LCALLIG;
+    font-size: 18px;
+    display:inline-block;
+    margin-top: 8px;
+}
+.top-catguide{
+    margin-bottom: 8px;
+}
+.map-catguide{
+    text-align: center;
+    background: #f6f6f6;
+    padding: 20px;
+    margin-top: 20px;
+}
+.box-map-catguide{
+    margin-bottom:30px ;
+}
+.a-nameblog-catguide{
+    font-family: LCALLIG;
+    color: #ba6842;
+}
+.div-nameblog-catguide{
+    background: url('../../images/topvietnamtour/icon.png') no-repeat 0 3px;
+    padding-left: 25px;
+}
+.blog-author{
+    color:#77985c;
+    padding-bottom: 5px;
+}
+.row-blog{
+    padding-bottom: 17px;
+}
+.a-nameblog-hot{
+    font-family: LCALLIG;
+    color: #ba6842;
+    font-size: 19px;
+    float: left;
+    width: -moz-calc(100% - 50px);
+    width: -webkit-calc(100% - 50px);
+    width: -o-calc(100% - 50px);
+    width: calc(100% - 50px);
+}
+.div-nameblog-hot{
+    padding-top: 12px;
+}
+.blog-catguide{
+    margin-top: 20px;
+}
+.box-blog-catguide{
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+.a-button-orange {
+    border-bottom: 2px solid #e59104;
+    color: #4e200a;
+    float: right;
+    font-family: MyriadPro-Semibold;
+    font-size: 22px;
+    padding: 8px 10px 8px 20px;
+    background: url("../../images/topvietnamtour/icon2.png") no-repeat right center;
+    background-color: #faa61a;
+}
+.a-button-orange:hover, .a-button-orange:focus{
+    color:#fff;
+    text-decoration: none;
+}
+.catguide-short{
+    height: 200px;
+    overflow: hidden;
+}
+.top-category{
+    padding-bottom: 20px;
+}
+.desc-catguide{
+    padding-top: 15px;
+}
+.desc-catguide .readmore-list{
+    margin-top: 15px;
+}
+.a-subcat-dest span{
+    float: left;
+    margin-right: 15px;
+    height: 48px;
+    width: 48px;
+    background-position:top left;
+    background-repeat:no-repeat;
+}
+.a-subcat-dest:hover span, .row-subcat-dest-inner:hover .a-subcat-dest span{
+    background-position: bottom left;
+}
+.row-subcat-dest-inner{
+    position: relative;
+    overflow: hidden;
+}
+.name-subcat-dest{
+    position: absolute;
+    bottom: 25px;
+    left: 20px;
+    z-index: 3;
+}
+.a-subcat-dest{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: MyriadPro-Semibold;
+    color:#fff;
+}
+.row-subcat-dest{
+    margin-bottom: 30px;
+}
+.a-subcat-dest:hover, .a-subcat-dest:focus{
+    text-decoration: none;
+    color:#fff;
+}
+.desc-subcat-dest{
+    position: absolute;
+    width: 100%;
+    background: rgba(0,0,0,0.5);
+    color:#fff;
+    cursor: pointer;
+    display: block;
+    height: 100%;
+    left: 0;
+    z-index: 2;
+}
+.desc-subcat-dest-inner{
+    padding:125px 20px 30px 20px;
+}
+.row-subcat-dest-inner:hover .desc-subcat-dest{
+    top: 0;
+    transition: all 0.4s ease 0s;
+}
+.desc-subcat-dest-inner-2{
+    padding-bottom: 10px;
+}
+.style-other{
+    margin: 20px 0 40px 0;
+}
+.cattour-map{
+    text-align: right;
+}
+.a-subcat-catlist{
+    font-size: 25px;
+    color:#ba6842;
+}
+.subcat-catlist{
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ccc;
+}
+.a-subcat-catlist span{
+    background-repeat: no-repeat;
+    background-position: left top;
+    display: inline-block;
+}
+.a-subcat-catlist:hover span{
+    background-position: left bottom;
+}
+.a-subcat-dest:hover{
+    color:#faa61a;
+    text-decoration: none;
+}
+.content-catlist-tour{
+    padding-top: 40px;
+}
+.a-view-more-list{
+    color:#ba6842;
+    font-size: 18px;
+    margin-top: 15px;
+}
+.a-view-more-list span{
+    padding-left: 8px;
+}
+.box-our-service ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color:#333333
+}
+.box-our-service ul li {
+    border-bottom: 1px solid #cccccc;
+    padding: 6px 0;
+    background: url(../../images/topvietnamtour/arrow.png) no-repeat 0 14px;
+    padding-left: 20px;
+}
+.box-our-service ul a {
+    color: #333333;
+    padding-left: 8px;
+}
+.tour-itemlist-top{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+.itemlist-style-other{
+    float: left;
+    position: relative;
+    overflow: hidden;
+    width: 20%;
+}
+.itemlist-style-other-col3{
+    position: relative;
+    overflow: hidden;
+}
+.itemlist-style-other-col3 .itemlist-style-other-name{
+    font-size: 20px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.itemlist-style-other-col3 .desc-style-other{
+    padding-top: 10px;
+}
+.itemlist-style-other-col3 .desc-subcat-dest-inner{
+    padding: 15px 10px 10px 10px;
+}
+.itemlist-style-other-6{
+    width: 16.6667%;
+}
+.itemlist-style-other-7{
+    width: 14.28571%;
+}
+.itemlist-style-other-5:nth-of-type(5n+1){
+    clear: both;
+}
+.itemlist-style-other-6:nth-of-type(6n+1){
+    clear: both;
+}
+.itemlist-style-other-7:nth-of-type(7n+1){
+    clear: both;
+}
+.img-style-other{
+    width: 100%;
+    height: auto;
+}
+.itemlist-style-other:hover .desc-subcat-dest,
+.itemlist-style-other-col3:hover .desc-subcat-dest
+{
+    top: 0;
+    transition: all 0.4s ease 0s;
+}
+.itemlist-style-other-name{
+    color:#fff;
+    text-shadow: 1px 2px 5px #333;
+    font-size: 30px;
+    position: absolute;
+    top:30px;
+    left:20px;
+    z-index: 9;
+}
+.itemlist-style-other:nth-of-type(1) .itemlist-style-other-name,
+.col-cat3:nth-of-type(1) .itemlist-style-other-name
+{
+    font-family: "UVN Mang Tre";
+}
+.itemlist-style-other:nth-of-type(2) .itemlist-style-other-name,
+.col-cat3:nth-of-type(2) .itemlist-style-other-name
+{
+    font-family:"MyriadPro-Regular" ;
+}
+.itemlist-style-other:nth-of-type(3) .itemlist-style-other-name,
+.col-cat3:nth-of-type(3) .itemlist-style-other-name
+{
+    font-family: "tt1018m";
+}
+.itemlist-style-other:nth-of-type(4) .itemlist-style-other-name,
+.col-cat3:nth-of-type(4) .itemlist-style-other-name,
+{
+    font-family: "Arabolical";
+}
+.itemlist-style-other:nth-of-type(5) .itemlist-style-other-name,
+.col-cat3:nth-of-type(5) .itemlist-style-other-name
+{
+    font-family: "MarckScript-Regular";
+    font-size:35px
+}
+.itemlist-style-other-6 .itemlist-style-other-name{
+    font-size: 22px;
+}
+.itemlist-style-other-6:nth-of-type(6) .itemlist-style-other-name{
+    font-size: 20px;
+}
+.itemlist-style-other-6:nth-of-type(5) .itemlist-style-other-name{
+    font-size: 25px;
+}
+.itemlist-style-other-6 .desc-subcat-dest-inner{
+    padding:85px 20px 30px 20px;
+}
+
+.itemlist-style-other-7 .itemlist-style-other-name{
+    font-size: 20px;
+}
+.itemlist-style-other-7:nth-of-type(6) .itemlist-style-other-name{
+    font-size: 20px;
+}
+.itemlist-style-other-7:nth-of-type(5) .itemlist-style-other-name{
+    font-size: 22px;
+}
+.itemlist-style-other-7 .desc-subcat-dest-inner{
+    padding:60px 20px 30px 20px;
+}
+.itemlist-style-other-7 .itemlist-style-other-name{
+    left: 10px;
+    top: 20px;
+}
+.desc-style-other{
+    padding-bottom: 10px;
+}
+.twhite{
+    color:#fff
+}
+.rating-daily .icon-smile, .rating-daily small{
+    color:#ccc
+}
+.rating-daily .voted,.rating .voted {
+    color: #ff9900 !important;
+}
+.rating-price-dailytour{
+    padding-top: 0px;
+}
+.tour-top-dailytour {
+    padding: 8px 10px 5px 10px;
+}
+.a-name-dailytour{
+    font-family: LCALLIG;
+    color:#fff;
+    font-size: 16px;
+}
+.a-name-cruise{
+    font-family: LCALLIG;
+    color:#fff;
+    font-size: 16px;
+}
+.tour-top-cruise{
+    line-height: 1.1em;
+}
+.cruise-tour{
+    font-weight: bold;
+}
+.row-cruise-tour{
+    background: url('../../images/topvietnamtour/logo.png') no-repeat 0 6px;
+    padding-left: 25px;
+
+}
+.row-cruise-tour a{
+    color:#ba6842;
+    display:inline-block;
+    width: 110px;
+}
+.price-line{
+    padding: 0 10px;
+}
+.bottom-cruise-row{
+    border: 1px solid #CCCCCC;
+    border-top:none;
+    padding: 10px;
+}
+.top-cruise-row{
+    position: relative;
+}
+.div-subcat-cruise{
+    background: url(../../images/topvietnamtour/cruise.png) no-repeat 0 7px;
+    padding: 10px 0;
+}
+.a-subcat-cruise-catlist{
+    color:#666;
+    font-size:25px;
+    padding-left: 50px;
+}
+
+.h3-video{
+    font-size: 25px;
+    background: url(../../images/topvietnamtour/video.png) no-repeat;
+    padding-left: 65px;
+    text-align: left;
+    padding-top: 10px;
+    margin-top: 10;
+}
+.subcat-catlist:last-child{
+    border: none;
+}
+.box-blog-2{
+    margin-top: 20px;
+}
+.box-blog{
+    padding: 20px 0;
+}
+.a-name-cruise-mekong{
+    color:#ba6842;
+    font-family: LCALLIG;
+    font-size: 17px;
+}
+.left-bestseller{
+    float: left;
+    width: calc(100% - 50px);
+}
+.padding-row{
+    padding-top: 5px;
+}
+.desc-catguide h2, .desc-catguide h3, .desc-catguide h1{
+    margin-top: 0;
+    font-size: 20px;
+    font-family: Montserrat-Regular;
+}
+.cruise-itemlist-top{
+    margin-bottom: 20px;
+}
+.left-cruise-hot{
+    float: left;
+    width: calc(100% - 50px);
+    background: url(../../images/topvietnamtour/cruise.png) no-repeat 0 0px;
+    padding-left: 55px;
+}
+.a-name-cruise-hot{
+    color:#ba6842;
+    font-size: 22px;
+    font-family: LCALLIG;
+}
+.tour-cruise-itemlist{
+    padding-top: 5px;
+    padding-bottom: 8px;
+}
+.a-subcat-cruise-similar{
+    color:#ba6842;
+    font-size: 22px;
+}
+.span-line-margin{
+    margin-top:20px;
+}
+.right-cruise-detail{
+    width:28.3333%;
+    float: right;
+    margin-top: 10px;
+}
+.left-cruise-detail{
+    width: 69.0833%;
+    float: left;
+}
+.content-cruise-detail{
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 15px;
+}
+
+.h1-cruise-detail{
+    margin-top: 0;
+    font-size:40px;
+    font-family: MyriadPro-Semibold;
+    margin-bottom: 20px;
+}
+.col-cruise-detail{
+    border-right: 2px solid #f0efef;
+    padding: 10px;
+    height: 70px;
+}
+.col-cruise-detail:last-child{
+    border-right: none;
+}
+.span-orange{
+    color:#bb6a45;
+    font-family: OpenSans-Semibold;
+}
+.torange{
+    color:#ba6842;
+}
+.select-list-box{
+    float: left;
+    position: relative;
+}
+.select-list-title{
+    color:#333;
+    cursor: pointer;
+    font-size: 18px;
+    height: 34px;
+    line-height: 34px;
+    display: block;
+    float: none;
+
+}
+.bar_tour_detail .select-list-title{
+    height: 28px;
+    line-height: 28px;
+}
+.bar_tour_detail .select_list{
+    background-position: 96% 13px;
+    background-color: #fff;
+    border-radius: 6px;
+}
+.select-list-box .options {
+    background: #bb6a45;
+    border-bottom: 1px solid #dddddd;
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+    padding: 0;
+    list-style: none;
+    margin: 0;
+    position: absolute;
+    width: 100%;
+    top:100%;
+    box-shadow:0px 2px 2px #dddddd;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.select-list-box .options a:hover {
+    background-color: #444444;
+    color: #ffffff;
+}
+.select-list-box .options a {
+    color: #fff;
+    font-size: 14px;
+    padding-left: 20px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    display: block;
+    float: none;
+    height: 34px;
+    line-height: 34px;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.select_list {
+    display: block;
+    height: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/down.png") no-repeat scroll 96% 15px;
+    background-color: #f0efef;
+    padding: 0 35px 0 10px;
+}
+.select_list.open{
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/up.png") no-repeat scroll 96% 15px;
+    background-color: #f0efef;
+}
+.bar-cruise-info{
+    font-size: 14px;
+    color:#999999;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.bar-cruise-info a{
+    margin-right: 20px;
+    color:#999999;
+    font-size:13px
+}
+.a_send{
+    background:url(../../images/topvietnamtour/brochure2.jpg) no-repeat 0 4px;
+    padding-left: 22px;
+}
+.a_print{
+    background:url(../../images/topvietnamtour/brochure4.jpg) no-repeat 0 4px;
+    padding-left: 15px;
+}
+.a_download{
+    background:url(../../images/topvietnamtour/brochure1.jpg) no-repeat 0 4px;
+    padding-left: 18px;
+}
+.a_request{
+    background:url(../../images/topvietnamtour/brochure3.jpg) no-repeat 0 6px;
+    padding-left: 17px;
+}
+.bar-cruise-info a i{
+    padding-right: 5px;
+}
+.cruiseinfo-short{
+    height: 300px;
+    overflow: hidden;
+}
+.left-map-cruise{
+    float: left;
+    width: 69.72%;
+}
+.right-map-cruise{
+    float: right;
+    width: 26.538%;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.right-map-cruise-large{
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
+}
+.cruise-destination{
+    font-size:14px;
+    padding: 10px 0;
+}
+.cruise-destination a{
+    color:#ba6842;
+    font-size:13px
+}
+.cruise-destination{
+    font-size:13px
+}
+.tour-cruise-map{
+    cursor: pointer;
+}
+.img-map{
+    max-width: 100%;
+}
+.tour-page--slideshow {
+    background: #f0efef none repeat scroll 0 0;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 7px 12px;
+    margin-bottom: 20px;
+}
+.tour-page--slideshow-item {
+    display: inline-block;
+    margin: 0 0.25em;
+    min-width: 30px;
+}
+.tour-page--slideshow-item img {
+    width: 100%;
+}
+#colorbox, #cboxOverlay, #cboxWrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    overflow: hidden; }
+
+#cboxWrapper {
+    max-width: none; }
+
+#cboxOverlay {
+    position: fixed;
+    width: 100%;
+    height: 100%; }
+
+#cboxMiddleLeft, #cboxBottomLeft {
+    clear: left; }
+
+#cboxContent {
+    position: relative; }
+
+#cboxLoadedContent {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch; }
+
+#cboxTitle {
+    margin: 0; }
+
+#cboxLoadingOverlay, #cboxLoadingGraphic {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow {
+    cursor: pointer; }
+
+.cboxPhoto {
+    float: left;
+    margin: auto;
+    border: 0;
+    display: block;
+    max-width: none;
+    -ms-interpolation-mode: bicubic; }
+
+.cboxIframe {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 0;
+    padding: 0;
+    margin: 0; }
+
+#colorbox, #cboxContent, #cboxLoadedContent {
+    box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box; }
+
+#cboxOverlay {
+    background: #000; }
+
+#colorbox {
+    outline: 0; }
+
+#cboxContent {
+    margin-top: 32px;
+    overflow: visible;
+    background: #fff;
+    margin-left: 15px;
+    margin-right: 15px; }
+
+.cboxIframe {
+    background: #fff; }
+
+#cboxError {
+    padding: 50px;
+    border: 1px solid #ccc; }
+
+#cboxLoadedContent {
+    background: #fff;
+    padding: 4px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+#cboxContent{
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+#cboxLoadingGraphic {
+    background: url(../../images/topvietnamtour/ajax-loader.gif) no-repeat center center; }
+
+#cboxLoadingOverlay {
+    background: #fff; }
+
+#cboxTitle {
+    position: absolute;
+    bottom:4px;
+    padding: 5px 10px;
+    width:calc(100% - 8px);
+    left: 4px;
+    color: #fff;
+    font-size:18px;
+    background: rgba(0,0,0,0.7);
+}
+
+#cboxCurrent {
+    position: absolute;
+    top: -22px;
+    right: 205px;
+    text-indent: -9999px; }
+
+#cboxSlideshow {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+    text-indent: -9999px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: -10px;
+    background: url(../../images/topvietnamtour/controls.png) no-repeat 0 0; }
+#cboxNext{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+    text-indent: -9999px;
+    width: 25px;
+    height: 53px;
+    position: absolute;
+    top: 40%;
+    right:10px;
+    background: url(../../images/topvietnamtour/next.png) no-repeat 0 0;
+}
+#cboxPrevious{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+    text-indent: -9999px;
+    width: 25px;
+    height: 53px;
+    position: absolute;
+    top: 40%;
+    left:10px;
+    background: url(../../images/topvietnamtour/prev.png) no-repeat 0 0;
+}
+#cboxClose {
+    width: 16px;
+    height: 16px;
+    top: -15px;
+    right: -15px;
+    text-indent: -100px;
+    text-align: left;
+    overflow: hidden;
+    background: url(../../images/topvietnamtour/close.png) no-repeat top left;
+    position: absolute;
+    border: none; }
+
+#cboxPrevious:active, #cboxNext:active, #cboxSlideshow:active, #cboxClose:active {
+    outline: 0; }
+
+
+.cboxSlideshow_on #cboxPrevious, .cboxSlideshow_off #cboxPrevious {
+    right: 66px; }
+
+.cboxSlideshow_on #cboxSlideshow {
+    background-position: -75px -25px;
+    right: 44px; }
+
+.cboxSlideshow_on #cboxSlideshow:hover {
+    background-position: -100px -25px; }
+
+.cboxSlideshow_off #cboxSlideshow {
+    background-position: -100px 0px;
+    right: 44px; }
+
+.cboxSlideshow_off #cboxSlideshow:hover {
+    background-position: -75px -25px; }
+.tab-content-detail{
+    padding-top: 15px;
+}
+.tab-cruise-detail{
+    margin-top: 30px;
+}
+.tab-cruise-detail .jcarousel-wrapper{
+    padding: 0;
+}
+.jcarousel-control-prev-d {
+    color: #faa61a;
+    position: absolute;
+    right: -5px;
+    top: 30px;
+    z-index: 9;
+}
+.jcarousel-control-next-d {
+    color: #faa61a;
+    left: -5px;
+    position: absolute;
+    top: 30px;
+    z-index: 9;
+}
+.h4-highlight{
+    color:#ba6842;
+    font-size: 16px;
+    font-family: OpenSans-Semibold;
+}
+.cruise-info-detail{
+
+}
+.tour-itinerary{
+    padding-top: 15px;
+}
+.nav-tabs > li > a{
+    border-radius: 0;
+}
+.nav.nav-tab-detail > li > a{
+    padding: 15px 25px;
+    font-size: 16px;
+    color:#333;
+    text-transform: uppercase;
+    font-family: Montserrat-Regular;
+}
+.nav.nav-tab-detail > li.active > a{
+    color:#bb6a45
+}
+.tour-include{
+    border:1px solid #ccc;
+    border-top: none;
+}
+.tour-include ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.tour-include ul li{
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/arrow.png") no-repeat scroll 10px 12px;
+    border-bottom: 1px solid #cccccc;
+    padding: 6px 0 6px 30px;
+    font-size: 14px;
+}
+.tour-include ul li:last-child{
+    border:none
+}
+.nav.nav-tab-service > li{
+    width: 50%;
+}
+.nav.nav-tab-service > li > a{
+    padding: 7px 5px;
+    text-align: center;
+    font-size: 14px;
+    color:#333;
+    background: #eceff0;
+    border:1px solid #ccc;
+    font-family: OpenSans-Semibold;
+}
+.nav.nav-tab-service > li.active > a{
+    color:#fff;
+    background: #bb6a45;
+    border-color:#bb6a45
+}
+.nav.nav-tab-service > li > a{
+    margin-right: 1px;
+}
+.nav.nav-tab-service > li:last-child > a{
+    margin-right: 0;
+    border-left: none;
+}
+.box-service-cruise{
+    margin-bottom: 20px;
+}
+.box-cruise-video{
+    margin-bottom: 20px;
+}
+.box-cruise-cabin{
+    margin-bottom: 20px;
+}
+.h3-video-cruise span{
+    font-family: MyriadPro-Semibold;
+}
+.h3-video-cruise{
+    background: url(../../images/topvietnamtour/video2.png) no-repeat top left;
+    font-size: 18px;
+    font-family: MyriadPro-Cond;
+    text-transform: uppercase;
+    padding: 5px 0px 5px 45px;
+    margin-top: 0;
+}
+.tps {
+    border: 2px solid #f0efef;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: table;
+    margin-top: 15px;
+    padding: 0;
+    width: 100%;
+}
+.tps__item:first-of-type {
+    border-left-width: 0;
+    min-height: 40px;
+}
+.tps__item {
+    border-bottom: 0 none;
+    display: table-cell;
+    width: 25%;
+}
+.tps__item {
+    padding: 0.5em 0 0.5em 1em;
+    vertical-align: middle;
+}
+.tps__item {
+    border-bottom: 0 none;
+    border-left: 2px solid #f0efef;
+    display: table-cell;
+    width: 25%;
+}
+.tb-cabin{
+    border:1px solid #ccc;
+    font-size: 14px;
+}
+.tb-cabin th{
+    padding: 10px 12px 10px 12px;
+}
+.tb-cabin td{
+    border-left: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    background: #fcf8f6;
+    padding: 10px 12px 10px 12px;
+}
+.th-type{
+    font-size: 16px;
+    background: #bb6a45;
+    border-color:#bb6a45;
+    color:#fff;
+    font-weight: normal;
+}
+.th-service{
+    font-size: 16px;
+    background: #eceff0;
+    font-weight: normal;
+}
+.td-position{
+    text-align: right;
+    color: #333333
+}
+#cboxLoadedContent .cabin-hd{
+    display:block;
+}
+.cruise-book{
+    float: left;
+    position: relative;
+    margin-right: 20px;
+}
+.cruise-book span{
+    background-image: url(../../images/topvietnamtour/emailsupport.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: -6px;
+    left: 0;
+}
+span.spanhover{
+    background-position: bottom left;
+}
+.a-cruise-book{
+    border:1px solid #d3d3d3;
+    color:#bb6a45;
+    font-family: MyriadPro-Semibold;
+    font-size: 18px;
+    text-transform: uppercase;
+    height: 35px;
+    line-height: 35px;
+    padding: 0 15px;
+    display: inline-block;
+    margin-left: 35px;
+    cursor: pointer;
+    background:#fff
+}
+.cruise-book-cust{
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+.support-email-right:hover a{
+    color:#fff;
+    text-decoration: none;
+}
+.a-cruise-book:hover,
+.tripgger-cust:hover
+{
+    background: #ba6842;
+    color:#fff;
+    text-decoration: none;
+}
+.tb-cabin a{
+    color:#bb6a45
+}
+.tb-cabin a:hover{
+    color:#ba6842
+}
+.cruise-cust{
+    float: left;
+    position: relative;
+    margin-right: 20px;
+}
+.cruise-cust span{
+    background-image: url(../../images/topvietnamtour/cust.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: -6px;
+    left: 0;
+}
+span.spanhover{
+    background-position: bottom left !important;
+}
+.a-cruise-cust{
+    border:1px solid #d3d3d3;
+    color:#bb6a45;
+    font-family: MyriadPro-Semibold;
+    font-size: 18px;
+    text-transform: uppercase;
+    height: 35px;
+    line-height: 35px;
+    padding: 0 15px;
+    display: inline-block;
+    margin-left: 35px;
+}
+.cruise-cust-cust{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.a-cruise-cust:hover{
+    background: #ba6842;
+    color:#fff
+}
+.h-big {
+    font-size:30px;
+    margin-bottom: 0.1em;
+    font-family: Montserrat-Regular;
+}
+
+.tps__item--description {
+    margin-left: 3px;
+    vertical-align: top;
+}
+.tps__item.tps__item_short{
+    width: 20%;
+}
+.tps__item.tps__item_full{
+    width: 35%;
+}
+.title-tour-day {
+    border: 1px solid #c07552;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: table;
+    padding: 0;
+    width: 100%;
+    -moz-box-shadow: inset 0 0 1px #f9e3da;
+    -webkit-box-shadow: inset 0 0 1px #f9e3da;
+    box-shadow: inset 0 0 1px #f9e3da;
+    cursor: pointer;
+}
+.title-tour-day div {
+    border-bottom: 0 none;
+    border-left: 1px solid #c07552;
+    display: table-cell;
+    padding: 7px 13px;
+    vertical-align: middle;
+}
+.title-tour-day div.title-tour-day-icon{
+    border:none
+}
+.title-tour-day-icon span{
+    background: url(../../images/topvietnamtour/cruise2.png) no-repeat top left;
+    width: 35px;
+    height: 34px;
+    display: inline-block;
+}
+.title-tour-day-icon span.offer{
+    background: url(../../images/topvietnamtour/icon5.png) no-repeat top left;
+    color:#ba6842;
+    text-align: center;
+    font-size:22px;
+    font-family: MyriadPro-BoldCond;
+}
+.title-tour-day-icon{
+    width: 58px;
+}
+.title-tour-day-order span{
+    color:#999999;
+    font-size: 18px;
+    font-family: OpenSans-Regular;
+}
+.title-tour-day-order{
+    width: 63px;
+    text-align: center;
+    line-height: 1.3em;
+    font-family: Montserrat-Regular;
+}
+.title-tour-day-meal{
+    width: 85px;
+    font-family: Montserrat-Regular;
+}
+.title-tour-day-meal span{
+    font-family: OpenSans-Regular;
+}
+.title-tour-day-arrow{
+    width: 40px;
+    text-align: center;
+}
+.title-tour-day:hover,
+.row-tour-day-open .title-tour-day
+{
+    background: #faa61a;
+    color:#fff;
+}
+.row-tour-day-open .title-tour-day-arrow span{
+    background: url("../../images/topvietnamtour/arrow_up.png") no-repeat top left;
+}
+.row-tour-day-open .title-tour-day{
+    border:none;
+}
+.row-tour-day-open .title-tour-day div{
+    border:none;
+}
+.title-tour-day:hover span,
+.row-tour-day-open span
+{
+    color:#fff;
+}
+
+.title-tour-day:hover .title-tour-day-icon span,
+.row-tour-day-open .title-tour-day-icon span
+{
+    background-position: bottom left;
+}
+.title-tour-day-arrow span{
+    background: url(../../images/topvietnamtour/arrow2.png) no-repeat bottom left;
+    width: 15px;
+    height: 10px;
+    display: inline-block;
+}
+.title-tour-day:hover .title-tour-day-arrow span,
+.row-tour-day-open .title-tour-day-arrow span{
+    background-position: top left;
+}
+.row-tour-day{
+    margin-bottom: 11px;
+}
+.row-tour-day-content{
+    padding: 15px 0;
+}
+.div-expand-hide{
+    padding-bottom: 15px;
+}
+.div-expand-hide a{
+    color:#bb6a45;
+    font-family: OpenSans-Semibold;
+}
+.div-expand-hide a:hover{
+    text-decoration: underline;
+}
+.view-all-tour{
+    text-align: right;
+    padding-top: 5px;
+}
+.h3-hotel-in-tour{
+    float: left;
+    color:#bb6a45;
+    font-size: 15px;
+    margin: 0;
+    height: 40px;
+    line-height: 40px;
+    font-family: Montserrat-Regular;
+}
+.nav.nav-tab-hotel > li{
+    margin: 0;
+}
+.nav.nav-tab-hotel > li > a{
+    padding: 0;
+    color:#333;
+    background: #eceff0;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 6px;
+    border:none;
+}
+.nav.nav-tab-hotel{
+    float: right;
+    border:none
+}
+.nav.nav-tab-hotel > li.active > a{
+    color:#fff;
+    background: #bb6a45;
+    border: none;
+}
+.nav.nav-tab-hotel > li > a{
+    margin-right: 1px;
+}
+.nav.nav-tab-hotel > li:last-child > a{
+    margin-right: 0;
+    border-left: none;
+}
+.box-hotel-tour{
+    border:1px solid #ccc;
+    border-bottom: none;
+}
+.tab-hotel-tour{
+    padding-left: 5px;
+}
+.tb-hotel{
+    font-size:14px
+}
+.tb-hotel{
+    border-top: 1px solid #CCCCCC;
+}
+.tb-hotel td{
+    padding: 13px 10px;
+    border-bottom: 1px solid #ccc;
+    background: #fcf8f6 ;
+}
+.td-hotel-left{
+    border-right: 1px solid #ccc;
+}
+.nav-tab-hotel > li > a:hover{
+    border:none
+}
+.tour-hotel-img{
+    float:right;
+    margin-left:15px;
+    margin-bottom: 10px;
+    width:200px
+}
+.h4-title-hotel{
+    color:#bb6a45;
+    font-size:25px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.td-hotel-left a{
+    color:#333;
+    font-family: Montserrat-Regular;
+}
+.td-hotel-left{
+    width: 110px;
+}
+.td-address{
+    text-align: right;
+}
+ul.add_info {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+ul.add_info li {
+    border: 1px solid #ededed;
+    border-radius: 3px;
+    display: inline-block;
+    height: 35px;
+    margin-right: 5px;
+    text-align: center;
+    width: 35px;
+}
+.tooltip_styled {
+    display: inline;
+    position: relative;
+    z-index: 999;
+}
+.tooltip-item::after {
+    bottom: 100%;
+    content: "";
+    height: 20px;
+    left: 50%;
+    pointer-events: none;
+    position: absolute;
+    transform: translateX(-50%);
+    width: 300px;
+}
+.tooltip_tour_banner .tooltip-item::after{
+    width: auto;
+    height:auto;
+    bottom:auto;
+    left: auto;
+}
+.tooltip-item {
+    cursor: pointer;
+    display: inline-block;
+}
+.tooltip-content::after {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #5a3403 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+    border-image: none;
+    border-style: solid;
+    border-width: 7px;
+    content: "";
+    height: 0;
+    left: 46px;
+    margin-left: -7px;
+    pointer-events: none;
+    position: absolute;
+    top: 100%;
+    width: 0;
+}
+.tooltip-effect-4 .tooltip-content {
+    transform: scale3d(0.7, 0.3, 1);
+    transform-origin: 50% 100% 0;
+    transition: opacity 0.2s ease 0s, transform 0.2s ease 0s;
+}
+.tooltip-content {
+    background: #5a3403 none repeat scroll 0 0;
+    bottom: 100%;
+    box-shadow: -5px -5px 15px rgba(48, 54, 61, 0.2);
+    color: #ffffff;
+    cursor: default;
+    display: block;
+    font-size: 12px;
+    left: 9px;
+    line-height: 1.3em;
+    margin: 0 0 17px -40px;
+    opacity: 0;
+    padding: 10px;
+    pointer-events: none;
+    position: absolute;
+    text-align: left;
+    width: 225px;
+    z-index: 9999;
+}
+#single_tour_feat .tooltip-content{
+    margin-bottom: 25px;
+    left: 18px;
+}
+.tooltip_styled:hover .tooltip-content {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translate3d(0px, 0px, 0px) rotate3d(0, 0, 0, 0deg);
+}
+.tooltip-effect-4 .tooltip-content {
+    transform-origin: 50% 100% 0;
+    transition: opacity 0.2s ease 0s, transform 0.2s ease 0s;
+}
+.tooltip-content h4{
+    margin: 0;
+    font-size: 14px;
+    font-weight: normal;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+}
+.tooltip-item i{
+    font-size:22px;
+    color:#666
+}
+.tooltip_styled:hover i{
+    color:#faa61a
+}
+.short_info i{
+    font-size:30px
+}
+.short_info{
+    /*position: absolute;
+    bottom: 70px;
+    left: 0;*/
+    color:#fff;
+    font-size: 14px;
+    padding: 9px;
+}
+.cattour-weather{
+    border:1px solid #cccccc
+}
+.a-name-dailytour-best{
+    font-size:22px;
+    font-family: LCALLIG;
+    color:#fff;
+}
+.box-tour-top .short_info{
+    bottom: 60px;
+}
+.h3-cattour-similar{
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.h3-cattour-similar a{
+    color:#ba6842;
+    font-size: 30px;
+}
+.view-all-tour-tab{
+    margin-top: 20px;
+}
+.tour-itemlist-bottom{
+    border-bottom: 1px solid #ccc;
+}
+#single_tour_feat ul {
+    display: table;
+    list-style: outside none none;
+    margin: 0 0 10px;
+    padding: 0;
+}
+#single_tour_feat ul li {
+    display: table-cell;
+    padding: 0 10px 20px;
+    text-align: center;
+    width: 1%;
+    line-height: 1em;
+    vertical-align: top;
+}
+#single_tour_feat ul li .title{
+    white-space: nowrap;
+}
+#single_tour_feat ul li i {
+    display: block;
+    font-size: 36px;
+    margin-bottom: 17px;
+}
+
+.row-tour-daily-content{
+    padding: 15px 0;
+}
+.title-day-daily{
+    color:#ba6842;
+    font-family: OpenSans-Semibold;
+    font-size: 15px;
+}
+.span-trans-day{
+    padding-right: 8px;
+}
+
+header::before {
+    border-bottom: 1px solid #988062 ;
+    content: "";
+    display: block;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
+header {
+    border-top: 3px solid #5a3403;
+    position: relative;
+    z-index: 10;
+}
+header.sticky{
+    border:none;
+}
+header.sticky:before{
+    border:none;
+}
+.desc-title-index{
+    color:#666;
+}
+.box-tour-bestseller{
+    margin: 0 -30px;
+}
+.row-tour-bestseller{
+    padding: 0 30px;
+}
+.a-name-bestseller:hover{
+    text-decoration: underline;
+}
+.box-tour-top{
+    margin: 0 -25px;
+}
+.row-tour-hot{
+    padding: 0 25px;
+}
+.tooltip.bottom .tooltip-arrow {
+    display: none;
+    border:none
+}
+.tooltip{
+    font-size: 13px;
+}
+.tooltip.bottom {
+    margin-top: 0;
+    padding: 5px 0;
+}
+.tooltip.bottom .tooltip-inner {
+    background: rgba(253,200,111,0.8);
+    border-radius: 5px;
+    border:1px solid #fff;
+    color: #823613;
+    max-width: 200px;
+    padding: 2px 12px;
+    text-align: center;
+    text-decoration: none;
+    top: -17px;
+    position: relative;
+    width: auto;
+}
+.row-newsletter{
+    padding-bottom: 12px;
+}
+.row-newsletter div{
+    padding: 0 3px;
+}
+input[type="text"].input-newsletter{
+    width: 100%;
+    border-color:#d4d2d2;
+    padding: 1px 5px;
+}
+.bt_submit_2{
+    color:#fff;
+    font-size: 14px;
+    background: #faa61a;
+    padding: 1px 10px;
+    border: none;
+}
+.bt_submit_2:hover{
+    background: #ba6842 none repeat scroll 0 0
+}
+.box-tripadvisor-footer{
+    padding-top: 10px;
+}
+.li_footer_menu{
+    padding-bottom: 4px;
+}
+.support-email span {
+    background-image: url("../../images/topvietnamtour/emailsupport.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: -6px;
+    width: 45px;
+}
+.spansupport{
+    background-image: url("../../images/topvietnamtour/phonesupport.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: -6px;
+    width: 45px;
+}
+.support-email{
+    position: relative;
+}
+.a-special-news{
+    border: 1px solid #d3d3d3;
+    color: #bb6a45;
+    display: block;
+    font-family: MyriadPro-Semibold;
+    font-size: 17px;
+    height: 35px;
+    line-height: 35px;
+    margin-left: 35px;
+    padding: 0 15px;
+}
+.box-support{
+    position: relative;
+}
+.support-email-right{
+    border: 1px solid #d3d3d3;
+    color: #bb6a45;
+    font-family: MyriadPro-Semibold;
+    font-size: 17px;
+    height: 36px;
+    line-height: 36px;
+    margin-left: 35px;
+    padding: 0 15px;
+    line-height: 1em;
+}
+
+.div-subcat-cruise .img-star{
+    position: relative;
+    top:-4px;
+    vertical-align: middle;
+}
+.subcat-catlist-cruise{
+    margin: 0 -25px;
+}
+
+.support-cust{
+    position: relative;
+    padding-bottom: 15px;
+}
+.support-cust span{
+    background-image: url("../../images/topvietnamtour/cust.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: -6px;
+    width: 45px;
+}
+/* Main menu */
+.main-menu .li_menu_main ul.ul_destination,
+.main-menu .li_menu_main ul.ul_4col,
+.main-menu .li_menu_main ul.ul_guide
+
+{
+    float: left;
+    left: 0;
+    list-style: outside none none;
+    margin: 0;
+    position: absolute;
+    display: none;
+    z-index: 1000;
+}
+.main-menu li.li_menu_main:hover ul {
+    display: block;
+    transition-duration: 0;
+    transition-delay: 0;
+}
+.main-menu .li_menu_main ul.ul_destination,
+.main-menu .li_menu_main ul.ul_4col,
+.main-menu .li_menu_main ul.ul_guide
+
+{
+    background: #fff;
+    padding: 25px 0;
+    border: 1px solid #B26440;
+    z-index: 999;
+    width: 100%!important;
+    left: 0px!important;
+}
+.main-menu .li_menu_main ul.ul_destination li.li_destination
+{
+    float: left;
+    width: 16.6667%;
+}
+.main-menu .li_menu_main ul.ul_4col li.li_4col
+{
+    float: left;
+    width: 25%;
+    padding: 0 25px;
+}
+.main-menu .li_menu_main ul li a.a_destination,
+.main-menu .li_menu_main ul li a.a_4col,
+.main-menu .li_menu_main ul li a.a_guide
+{
+    display: block;
+    color:#ba6842;
+    font-family: OpenSans-Semibold;
+    text-transform: uppercase;
+    border-bottom: 2px solid #faa61a;
+    padding-bottom: 5px;
+    margin: 0 10px;
+}
+.main-menu .li_menu_main ul li a.a_level2{
+    color:#333;
+    font-family: OpenSans-Regular;
+    font-size:14px
+}
+.main-menu .li_menu_main ul.ul_level2{
+    margin-top: 10px;
+    padding: 0 10px;
+}
+.main-menu ul li.li_level2{
+    padding-bottom: 3px;
+    display: block;
+}
+
+
+.main-menu .ul_destination,
+.main-menu .ul_4col,
+.main-menu .ul_guide,
+{
+    position: relative;
+}
+/*
+.ul_destination:after, .ul_destination:before,
+.ul_4col:after, .ul_4col:before,
+.ul_guide:after, .ul_guide:before
+{
+    top: -1px;
+    left: 14%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+.ul_destination:after,
+.ul_4col:after,
+.ul_guide:after
+{
+    border-color: rgba(255, 255, 255, 0);
+    border-top-color: #fff;
+    border-width: 10px;
+    margin-left: -10px;
+}
+.ul_destination:before,
+.ul_4col:before,
+.ul_guide:before
+{
+    border-color: rgba(194, 225, 245, 0);
+    border-top-color: #ba6842;
+    border-width: 11px;
+    margin-left: -11px;
+}*/
+
+.main-menu .li_menu_main ul.ul_guide li.li_guide{
+    float: left;
+    width: 20%;
+}
+.main-menu .ul_guide:after, .main-menu .ul_guide:before{
+    left: auto;
+    right: 40px;
+}
+/* Main menu */
+.blog-container {
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/line-bg.png") repeat-y scroll center 2px;
+    display: block;
+    overflow: hidden;
+    position: relative;
+}
+.relativepos {
+    position: relative;
+}
+.date-circle {
+    background: #BA6842 none repeat scroll 0 0;
+    border-radius: 50%;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 16px;
+    min-width: 80px;
+    height: 80px;
+    padding: 10px 10px 0px 10px;
+    text-align: center;
+    text-align: center;
+    font-family: LCALLIG;
+    font-size: 14px;
+}
+.blog-homescroll {
+    height: 300px;
+}
+.img-dest-home{
+    width:100%;
+}
+.blog-homescroll .row {
+    margin-bottom: 25px;
+}
+.mCSB_scrollTools {
+    opacity: 0 !important;
+}
+.btn-blog{
+    background: #ba6842;
+    color:#fff;
+    font-family: LCALLIG;
+    font-size: 14px;
+    display:inline-block;
+    padding: 7px 10px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+}
+.box-blog-container{
+    margin-bottom: 30px;
+}
+.h3-dest{
+    margin-top: 0;
+    font-family: LCALLIG;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.date-circle span{
+    font-size:20px
+}
+.a-read-dest{
+    color:#c9820d;
+    font-size: 16px;
+}
+.blog-container .text-right{
+    padding-top: 15px;
+}
+.h2-video{
+    font-size: 40px;
+    font-family: Times New Roman, Times, Serif;
+    font-style: italic;
+    margin-top: 15px;
+}
+.desc-video{
+    padding-bottom: 30px;
+}
+.box-video .text-center{
+    padding-top: 10px;
+}
+.a-video-title{
+    color:#333;
+    font-size: 20px;
+}
+.imgplay {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    font-size:45px;
+    background:rgba(0,0,0,0.2)
+
+}
+.imgplay span{
+    height:41px;
+    background-image: url(../../images/topvietnamtour/videoicon.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    top: calc(50% - 20px);
+    left: calc(50% - 20px);
+    width: 41px;
+    display: inline-block;
+    position: absolute;
+}
+.imgplay:hover span,
+.imgplayhover,
+.has-feedback a:hover .imgplay span
+{
+    background-position: bottom left;
+}
+.a-name-gallery{
+    color:#ba6842;
+    font-size:20px
+}
+.h1-title-gallery{
+    font-family: MyriadPro-Semibold;
+    font-size:30px
+}
+.desc-gallery{
+    padding-bottom: 30px;
+}
+.row-gallery{
+    margin-right: -1px;
+    margin-left: 0;
+}
+.col-gallery{
+    padding-left: 0;
+    padding-right: 1px;
+    padding-bottom: 2px;
+}
+.col-gallery img{
+    width: 100%;
+}
+.content-main{
+    padding-bottom: 30px;
+}
+.nav.nav-tab-cust > li > a{
+    padding: 15px 25px;
+    font-size: 17px;
+    color:#333;
+    text-transform: uppercase;
+    text-shadow: 0 0 0 #333;
+}
+.nav.nav-tab-cust > li.active > a{
+    color:#ba6842;
+    text-shadow: 0 0 0 #ba6842;
+    background: #efefef;
+}
+.tab-content-cust{
+    border:1px solid #ddd;
+    border-top:none
+}
+.dest-post{
+    position: relative;
+}
+.dest-post-icon{
+    position: absolute;
+    width:100%;
+    height: 100%;
+    background: rgba(255,255,255,0.5);
+    top: 0;
+    left: 0;
+}
+.dest-post-icon i{
+    color:#f39f62;
+    border:2px solid #f39f62;
+    background: #fff;
+    width: 35px;
+    height: 35px;
+    line-height: 28px;
+    border-radius: 50%;
+    text-align: center;
+    top: calc(50% - 15px);
+    left: calc(50% - 15px);
+    position: absolute;
+}
+.tab-content-cust{
+    background: #efefef none repeat scroll 0 0;
+    padding: 20px 30px;
+}
+.a-submit{
+    background-color: #faa61a;
+    border: medium none;
+    color: #620505;
+    font-family: MyriadPro-Regular;
+    font-size: 30px;
+    padding: 5px 30px;
+    display: inline-block;
+    cursor: pointer;
+}
+.a-submit:hover {
+    background-color: #ba6842;
+    color: #ffffff;
+}
+input[type="text"]:focus, textarea:focus {
+    box-shadow: 0 0 5px #51cbee;
+}
+.countr-faq{
+    color:#999
+}
+.box-search-faq{
+    background: #f7f6f5;
+    padding: 12px 50px 12px 30px;
+    font-family:OpenSans-Regular;
+    font-size:14px;
+    margin-bottom: 30px;
+}
+input[type=text].text-key-faq{
+    border:none;
+    background:#fff;
+    width: calc(100% - 25px);
+}
+input[type="text"].text-key-faq:focus{
+    box-shadow: none;
+}
+.box-search{
+    border: 1px solid #9c9c9c;
+    padding: 5px 8px;
+    background:#fff;
+}
+.submit-faq{
+    border: none;
+    margin-top: 6px;
+    width: 18px;
+    height: 15px;
+    background: url(../../images/topvietnamtour/search.png) no-repeat;
+    background-color: #fff;
+    float: right;
+}
+.box-faq-total{
+    padding-top: 5px;
+}
+.box-faq-total span{
+    font-weight:bold
+}
+.h3-faq-cat{
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/title.png") repeat-x scroll left bottom;
+    font-family: MyriadPro-Regular;
+    font-size: 20px;
+    padding-bottom: 17px;
+    margin: 0;
+}
+.h3-faq-cat span{
+    padding-left: 55px;
+    line-height: 38px;
+    display:block;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+.row-cat-faq:nth-of-type(2n+1){
+    clear: both;
+}
+.row-cat-faq{
+    margin-bottom: 30px;
+}
+.change-to-suit{
+    padding-bottom: 10px;
+}
+.faq-cust{
+    padding-top: 15px;
+}
+.row_faq_list h3{
+    margin: 0;
+    font-size: 16px;
+    background: url('../../images/topvietnamtour/arrow3.png') no-repeat 0 5px;
+    padding-left: 15px;
+    cursor: pointer;
+}
+.row_faq_list{
+    border-bottom: 1px solid #cccccc;
+    padding: 8px 0;
+}
+.accordian-content{
+    padding: 10px 0;
+}
+#accordion{
+    padding-top:15px
+}
+.pw_item_last{
+    text-transform: capitalize;
+}
+.p-box {
+    overflow: hidden;
+    transition: all 0.2s ease-out 0s;
+    visibility: hidden;
+    white-space: nowrap;
+    width: 0;
+    float: right;
+    padding-left: 10px;
+    border-left: 1px solid #ccc;
+}
+.sticky .p-box {
+    visibility: visible;
+    width: auto;
+    padding-right: 25px;
+    text-align: right;
+    -webkit-transition: width 0.3s ease-out;
+    -moz-transition: width 0.3s ease-out;
+    transition: width 0.3s ease-out;
+    margin-left: 10px;
+}
+.sticky #logo img{
+    width: 170px;
+    padding-bottom: 5px;
+}
+.sticky .main-menu a.a_menu_main{
+    font-size:14px !important;
+    padding-bottom: 25px;
+}
+.left-header{
+    float: left;
+    width: 220px;
+}
+.right-header{
+    float: right;
+    width: calc(100% - 220px);
+}
+.sticky .left-header{
+    float: left;
+    width: 180px;
+}
+.sticky .right-header{
+    float: right;
+    width: calc(100% - 180px);
+}
+header.sticky .main-menu{
+    margin-top: 18px;
+}
+.p-box .span-phone{
+    border-right:1px solid #CCCCCC;
+    padding-right: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+.pw_item:last-child{
+    background: none;
+}
+.font-mont{
+    font-family: Montserrat-Regular;
+}
+.sticky .a-become-partner{
+    font-size: 15px;
+}
+.title-tour-day-icon .span-trans-day,
+.title-day-daily .span-trans-day{
+    height: 35px;
+    width: 35px;
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+.title-day-daily .span-trans-day{
+    vertical-align: middle;
+    margin-right: 5px;
+    display: inline-block;
+}
+.cattour-map-small{
+    clear: both;
+    float: right;
+    width: 24.5%;
+    margin-left: 20px;
+    text-align: right;
+}
+.cattour-map-large{
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+.title-tour-day-name{
+    font-family:OpenSans-Semibold;
+}
+.box-support-bottom{
+    position: relative;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+.box-support-large{
+    padding-left: 80px;
+}
+.main-menu .li_menu_main ul.ul_cruise {
+    display: none;
+    position: absolute;
+}
+.main-menu  .li_menu_main:hover .ul_cruise{
+display: block;
+    background: #fff;
+}
+
+.main-menu .li_menu_main .ul_cruise
+{
+    position: relative;
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #b26440;
+    z-index: 999;
+    padding: 20px 15px 10px 15px;
+    width: 250px;
+}
+.main-menu .ul_cruise:after, .main-menu .ul_cruise:before
+{
+    top: -1px;
+    left: 14%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+.main-menu .ul_cruise:after
+{
+    border-color: rgba(255, 255, 255, 0);
+    border-top-color: #fff;
+    border-width: 10px;
+    margin-left: -10px;
+}
+.main-menu .ul_cruise:before
+{
+    border-color: rgba(194, 225, 245, 0);
+    border-top-color: #ba6842;
+    border-width: 11px;
+    margin-left: -11px;
+}
+.main-menu .ul_cruise .li_cruise{
+    display: block;
+    padding-bottom: 5px;
+}
+.main-menu .ul_cruise .li_cruise .a_cruise{
+    color:#333;
+}
+.catvideo .imgplay,
+.catvideo img
+{
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
+.catvideo .text-center{
+    padding-top: 5px;
+    font-size:16px
+}
+.catvideo .text-right{
+    padding-top: 10px;
+    font-size: 17px;
+}
+.cruise-icon{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background: url(../../images/topvietnamtour/buom.png);
+    width: 106px;
+    height: 116px;
+}
+.row-whyus-itemlist{
+    padding: 15px 0;
+}
+.whyus-post{
+    position: absolute;
+    bottom: 45px;
+    left:0px;
+    width: 100%;
+    padding-left: 20px;
+    font-family: MyriadPro-Semibold;
+    font-size: 36px;
+    color:#ffffff;
+    text-shadow: 1px 2px 1px #000000;
+}
+.whyus-post span{
+    background-repeat: no-repeat;
+    background-position: top left;
+    display: inline-block;
+}
+.row-whyus-itemlist .has-feedback{
+    padding-bottom: 15px;
+}
+.whyus-post .pull-left{
+    background-color: #f5f6f8;
+    text-align: center;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    padding-top: 4px;
+    height: 55px;
+    min-width: 68px;
+    margin-right: 15px;
+}
+/*
+.html5-nav, .html5-nav-mask{
+    width: 800px !important;
+}
+.html5-nav{
+    left: calc(50% - 400px) !important;
+}
+.html5-nav-container{
+    margin: 0!important;
+    background: #fff !important;
+    padding: 4px !important;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+#html5-elem-data-box{
+    background: rgba(0, 0, 0, 0.6) none repeat scroll 0 0 !important;
+    bottom: 8px;
+    color: #ffffff;
+    font-size: 18px;
+    left: 8px;
+    padding: 5px 10px !important;
+    position: absolute !important;
+    width: calc(100% - 16px) !important;
+
+}
+#html5-text{
+    color: #ffffff !important;
+    font-size: 18px !important;
+}
+#html5-image{
+
+}
+#html5-elem-box{
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.html5-nav-prev{
+    left: 13px !important;
+    z-index: 3;
+    width: 9px !important;
+}
+.html5-nav-next{
+    right:  13px !important;
+    z-index: 3;
+    width: 9px !important;
+}
+#html5-prev{
+    left: 15px !important;
+}
+#html5-next{
+    right: 15px !important;
+}
+*/
+.cabin-hd{
+    position: absolute;
+    width: 562px;
+    height:450px;
+    right: 90%;
+    bottom: calc(100% - 50px);
+    z-index: 9;
+    display: none;
+}
+.cabin-hd-inner{
+    background:#fef9f9;
+    border:3px solid #bb6a45;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    overflow: scroll;
+    padding: 20px;
+    margin-top: 15px;
+    margin-right: 15px;
+    height: 400px;
+    overflow: auto;
+    padding-top: 10px;
+    text-align: left;
+}
+.close-hotel{
+    display: inline-block;
+    background:url(../../images/topvietnamtour/close.png) no-repeat;
+    height: 16px;
+    width: 16px;
+    position: absolute;
+    right:0px;
+    top:0px;
+    cursor: pointer;
+}
+.name-hotel-tour,.a-tour-destination{
+    cursor: pointer;
+}
+.cabin-hd-dest{
+    position: absolute;
+    width: 562px;
+    height:450px;
+    right: 100%;
+    bottom: calc(100% - 70px);
+    z-index: 9;
+    display: none;
+}
+.nav-tab-review > li{
+    border:none;
+    border-bottom: 2px solid #fff;
+    margin-right: 2px;
+}
+.nav-tab-review > li.active{
+    border-bottom: 2px solid #bb6a45;
+}
+.nav-tab-review > li > a, .nav-tab-review > li > a:hover, .nav-tab-review > li > a:focus{
+    background:#eceff0;
+    font-size:18px;
+    border:none;
+    padding:8px 20px;
+    color:#333
+}
+.nav-tab-review > li.active > a, .nav-tab-review > li.active > a:hover, .nav-tab-review > li.active > a:focus{
+    background:#bb6a45;
+    color:#fff;
+    border:none;
+    margin: 0;
+    border-bottom: 1px solid #bb6a45;
+}
+.nav-tab-review{
+    border-bottom: 1px solid #bb6a45;
+}
+.nav-tab-review > li:first-child a{
+    border-radius: 7px 0 0 0;
+}
+.nav-tab-review > li:last-child a{
+    border-radius: 0 7px 0 0;
+}
+.tab-content-review{
+    padding-top: 15px;
+}
+.row-review{
+    padding-bottom: 10px;
+}
+.number-feedback{
+    font-family:"Montserrat-Regular";
+    font-size: 20px;
+    line-height: 1em;
+    padding-right: 10px;
+    position: relative;
+    top: -3px;
+}
+.left_score{
+    display: table-cell;
+    width: 60.434%;
+    background: #eceff0;
+    border-top:2px solid #bb6a45;
+    padding: 10px 15px 15px 15px;
+    border-right: 1px solid #fff;
+}
+.right_score{
+    display: table-cell;
+    background: #eceff0;
+    border-top:2px solid #bb6a45;
+    padding: 10px 15px 15px 10px;
+}
+.score_breakdown{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: table;
+    width: 100%;
+}
+.rate-result-title{
+    color:#bb6a45;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.row-rate-group{
+    padding-bottom: 10px;
+}
+.row-rate{
+    border-bottom: 1px dotted #333;
+    margin-bottom: 10px;
+}
+.a-write-review{
+    background: #faa61a;
+    color:#612608;
+    font-size: 17px;
+    display: inline-block;
+    padding: 6px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.a-write-review:hover, .a-write-review:focus {
+    background-color: #ba6842;
+    color:#fff;
+    text-decoration: none;
+}
+.img-test{
+    padding-left: 20px;
+}
+.div-form-review{
+    background: #efefef none repeat scroll 0 0;
+    padding: 20px 30px;
+}
+.form-review-criteria{
+    padding: 15px 0 25px 0;
+}
+.row-review .col-md-2{
+    padding-right: 0;
+}
+.input-review{
+    width:100%
+}
+.textarea-review{
+    width: 100%;
+    height: 150px;
+    border:none
+}
+.div_bt_review{
+    margin-top: 15px;
+}
+.b-error{
+    color:red;
+    padding-top: 10px;
+}
+.td_cruise_header{
+    font-family: OpenSans-Semibold;
+}
+.getdate table th,
+.td_price th.th_header{
+    color: #fff;
+    padding: 5px 8px;
+    text-align: center;
+    background: #BC6A45;
+    border: 1px solid #fff;
+    font-weight: normal;
+}
+.getdate table td ,
+.td_price td {
+    background: #eceff0 none repeat scroll 0 0;
+    border: 1px solid #fff;
+    color: #000000;
+    padding: 5px 8px;
+}
+.name_criteria{
+    margin-bottom: 5px;
+    display: inline-block;
+}
+.td_price_{
+    text-align: center;
+}
+.td_price .th_header_{
+    text-align: left;
+    width: 180px;
+}
+.td_pbook{
+    display: inline-block;
+    background:#faa61a;
+    color:#6b280a;
+    padding: 1px 10px;
+    font-size: 13px;
+}
+.td_pbook:hover{
+    background:#ba6842;
+    color:#fff
+}
+.getdate table,
+.td_price{
+    font-size: 15px;
+}
+.td_pbook_{
+    text-align: center;
+    width: 115px;
+}
+.title_tb_price{
+    font-size:15px;
+    color:#666;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.title_tb_price span{
+    font-size: 20px;
+    color:#333
+}
+.tab-review{
+    margin-top: 15px;
+}
+.tab-review-tour{
+    margin-top: 30px;
+}
+.tour-table-price{
+    margin-bottom: 20px;
+}
+.table-summary{
+    color:#666666;
+    padding-top: 10px;
+}
+.div-book-package{
+    background:#fcf8f6;
+    border:1px solid #eceff0;
+    padding: 15px;
+}
+.row-book-package {
+    padding-bottom: 14px;
+}
+.input-book-package {
+    width: 80%;
+    background:#fff;
+    margin-right:5px
+}
+#frmbookpackage input {
+    padding: 3px 5px;
+}
+.tb-person input {
+    text-align: center;
+}
+.title-highlight{
+    color:#b9582c;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.tb-person td {
+    color: #666666;
+    padding: 5px;
+    text-align: right;
+}
+.select-package{
+    width: 80%;
+    border:1px solid #dddddd;
+    padding: 3px 5px
+}
+.cruise-shop span{
+    background-image: url(../../images/topvietnamtour/shopcart.png);
+}
+.tour-detail-button{
+    padding:15px 20px 20px 50px;
+}
+/* Shopcart */
+.process-shopcart{
+    background: #d3d0d0;
+    height: 55px;
+    line-height: 55px;
+    overflow: hidden;
+    color: #686667;
+}
+.process-step{
+    background: url(../../images/topvietnamtour/process.jpg) no-repeat right top;
+    padding: 0 50px 0 20px;
+    float: left;
+    font-size: 14px;
+    font-family: OpenSans-Semibold;
+    font-style: italic;
+}
+.process-step:last-child{
+    background: none;
+}
+.shopcart-all{
+    background: #f5f1ec;
+    border: 1px solid #d3d0d0;
+    border-top: none;
+}
+.item-shopcart{
+    padding: 20px;
+    border-bottom: 1px solid #d3d0d0;
+}
+.padding-pack{
+    padding-bottom: 9px;
+}
+.name-shopcart{
+    padding-bottom: 9px;
+}
+.a-name-shopcart{
+    color: #bb6b46;
+    font-size:17px;
+    font-family: OpenSans-Semibold;
+}
+.padding-pack span{
+    font-family: OpenSans-Semibold;
+}
+.item-shopcart input{
+    padding: 5px;
+}
+.price-item-shopcart{
+    text-align: right;
+    color: #f70303;
+    padding-bottom: 5px;
+}
+.price-shopcart{
+    font-size: 14px;
+}
+.price-item-shopcart-2{
+    text-align: right;
+    color: #f70303;
+}
+.price-shopcart strong{
+    font-size: 20px;
+}
+.total-shopcart{
+    text-align: right;
+    color: #f70303;
+    font-size: 17px;
+}
+.bottom-shopcart{
+    padding: 20px 0;
+}
+.remove_shopcart {
+    display: inline-block;
+    border: 1px solid #bb6b46;
+    color: #bb6b46;
+    display: inline-block;
+    font-family: OpenSans-Semibold;
+    font-size: 16px;
+    margin-right: 10px;
+    padding: 6px 15px 6px 15px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.shopcart-detail{
+    background: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.shopcart-contact{
+    border: 1px solid #d3d0d0;
+    border-top: none;
+    padding: 20px;
+}
+.title-shopcart-contact{
+    color: #b62026;
+    font-size: 16px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+}
+.div-bt-submit-shop{
+    margin-top: 20px;
+}
+.row-book-package .col-md-3{
+    text-align: right;
+}
+/* Shopcart */
+.a-tour-book{
+    font-family: LCALLIG;
+    font-size: 18px;
+}
+.select-package_ select{
+    width: 120%;
+    background:rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    border:none;
+    padding: 0.3em;
+}
+.select-package_{
+    background:url(../../images/topvietnamtour/arrow4.png) no-repeat right center;
+    overflow: hidden;
+    background-color: #fff;
+}
+.row-payment label{
+    font-weight: normal;
+    padding-left: 6px;
+}
+.team-book{
+    padding-top: 10px;
+}
+.rate_criteria_bg{
+    float:left;
+    width:101px;
+    height:14px;
+    background-image: url('../../images/topvietnamtour/star.png');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+.seereview, #seereview{
+    cursor: pointer;
+}
+.a_main_menu_hover {
+    position: relative;
+    z-index: 9999;
+}
+.a_main_menu_hover::after, .a_main_menu_hover::before {
+    border: medium solid rgba(0, 0, 0, 0);
+    content: " ";
+    height: 0;
+    left: 50%;
+    pointer-events: none;
+    position: absolute;
+    top: 100%;
+    width: 0;
+}
+.a_main_menu_hover:after {
+    border-color: rgba(255, 255, 255, 0);
+    border-top-color: #fff;
+    border-width: 10px;
+    margin-left: -10px;
+}
+.a_main_menu_hover::after {
+    border-color: #ffffff rgba(255, 255, 255, 0) rgba(255, 255, 255, 0);
+    border-width: 10px;
+    margin-left: -10px;
+}
+.a_main_menu_hover::before {
+    border-color: #b26440 rgba(178, 100, 64, 0) rgba(178, 100, 64, 0);
+    border-width: 11px;
+    margin-left: -11px;
+}
+.a_main_menu_hover{
+
+}
+.box-tripadvisor-partner{
+    float:left;
+    width: 25.917%;
+    padding-top: 10px;
+}
+.box-vietnam-office{
+    float: left;
+    width: 39.083%;
+}
+.box-international-office{
+    float: left;
+    width: 35%;
+}
+.box-vietnam-office-2,
+.box-international-office-2
+{
+    padding: 0 15px;
+}
+.name-partner{
+    font-family: MyriadPro-Semibold;
+    font-size: 18px;
+    padding-right:15px;
+    display: inline-block;
+    padding-top:2px;
+}
+.btn-menu-partner{
+    color:#666;
+    border:1px solid #ccc;
+    background:url(../../images/topvietnamtour/setting.png) no-repeat 7px 5px;
+    border-radius: 0;
+    padding: 4px 10px 4px 32px;
+}
+.li_main_first i{
+    background:#e5e5e5;
+    border-radius: 4px;
+    padding: 2px 4px;
+    color:#7f7f7f;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.main-menu .a_menu_main:hover{
+    color:#bc6d49;
+    text-decoration: none;
+}
+.header-partner .main-menu{
+    margin-top: 18px;
+}
+.content-partner{
+    border-top: 1px solid #5b3605;
+}
+.box-download-tarriff{
+    padding: 10px 0px 13px 15px;
+}
+.list-tarriff .col-md-6:nth-of-type(2n+1){
+    clear: both;
+}
+.list-tarriff{
+    padding-top: 10px;
+    font-size: 13px;
+}
+.list-tarriff a{
+    color:#333;
+}
+.list-tarriff ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.list-tarriff li{
+    background:url(../../images/topvietnamtour/download.png) no-repeat 0 8px;
+    padding-left: 20px;
+    float: right;
+    width: 48%;
+    margin-bottom: 5px;
+}
+.list-tarriff li:nth-of-type(2n+1){
+    float: left;
+    clear: both;
+}
+.list-tarriff li a:hover{
+    color:#faa61b
+}
+.list-tarriff .col-md-6{
+    margin-bottom: 8px;
+}
+.email-latest{
+    float: left;
+    width: 40px;
+    text-align: center;
+}
+.row-msg-date{
+    float: right;
+    width: 90px;
+    text-align: right;
+}
+.row-msg-content{
+    width: calc(100% - 140px);
+    float: left;
+}
+.box-message-latest{
+
+    padding-top: 15px;
+}
+.row-msg-latest{
+    border-bottom: 1px solid #CCCCCC;
+    padding: 10px 0;
+    color: #666666;
+    padding-right: 10px;
+}
+.row-msg-latest:last-child{
+    border:none
+}
+.name-msg-content{
+    font-size: 15px;
+    padding-bottom: 5px;
+    color:#333;
+}
+.name-msg-content a{
+    color:#333;
+}
+.row-msg-latest:hover{
+    background: #efeeee;
+}
+.row-msg-latest:hover .name-msg-content{
+    color:#666
+}
+.row-msg-latest i{
+    font-size: 16px;
+    padding-top: 3px;
+    font-weight: bold;
+}
+.row-msg-latest:hover i{
+    color: #999999;
+}
+.box-message-latest .h3-title-right{
+    padding-right: 5px;
+    padding-left: 10px;
+    line-height: 1;
+    padding-bottom: 15px;
+}
+.box-message-latest .pull-right{
+    margin-top: 5px;
+}
+.h3-title-right .span-latest{
+    color:#666;
+    padding: 0 10px;
+    font-size: 15px;
+    font-family: OpenSans-Regular;
+    float: left;
+}
+.box-message-latest .pull-right
+{
+    line-height: 1;
+}
+.row_sale_partner i,
+.box-message-latest .pull-right i
+{
+    color:#fff;
+    background: #ba6842;
+    border-radius: 4px;
+    padding: 3px 4px;
+    font-size:12px;
+    float: left;
+    margin-right: 10px;
+}
+.row_sale_partner i.fa-envelope,
+.box-message-latest .pull-right i.fa-envelope
+{
+    padding: 3px 4px 5px 4px;
+    font-size: 10px;
+}
+.row_sale_partner{
+    line-height: 1.1;
+}
+.row_sale_partner a{
+    color:#666;
+    font-size:15px;
+}
+.name-partner_{
+    font-size:19px;
+    font-family: OpenSans-Semibold;
+}
+.col-duration .col-tab-p{
+    font-size: 13px;
+}
+.partner-msg{
+    padding-left: 0;
+}
+.padding-partner-download{
+    display: table-cell;
+    width: 2%;
+}
+.message-empty{
+    padding:15px
+}
+.msg-partner{
+    width: 57%;
+    display: table-cell;
+    border:1px solid #ccc;
+    background: #f7f6f3;
+    border-top: none;
+    vertical-align: top;
+}
+.download-tarriff{
+    display: table-cell;
+    width: 43%;
+    border:1px solid #ccc;
+    border-top: none;
+    background: #FEFAF1;
+    border-left: none;
+}
+.box_admin_partner{
+    padding: 20px 20px 15px 30px;
+}
+.h3_admin_partner{
+    margin-top: 0;
+    color:#ba6842;
+    font-size: 20px;
+    margin-bottom: 22px;
+    font-family: OpenSans-semibold;
+}
+.row_sale_partner{
+    padding-bottom: 15px;
+}
+.name_sale{
+    font-size: 17px;
+    font-family: OpenSans-semibold;
+}
+.msg-partner-download{
+    margin-bottom: 25px;
+    display:table;
+    width:100%
+}
+.box-search-partner{
+    background: #e5e5e5;
+    color:#666;
+    padding: 16px 10px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.span-search-partner {
+    background: #ffffff none repeat scroll 0 0;
+    padding: 3px 8px;
+    margin-bottom: 10px;
+}
+.nav-tab-category{
+    border-bottom: 3px solid #faa61a;
+}
+.nav-tab-category > li{
+    boder:none;
+    text-align: center;
+    width: 25%;
+    background:#E0E0E0
+}
+.nav-tab-category-cruise >li{
+    width: 50%;
+}
+.nav-tab-category > li  a{
+    font-size: 19px;
+    border:none;
+    color:#333
+}
+.nav-tab-category > li.active > a, .nav-tab-category > li.active > a:hover, .nav-tab-category > li.active > a:focus,
+.nav-tab-category > li.ui-state-active > a, .nav-tab-category > li.ui-state-active > a:hover, .nav-tab-category > li.ui-state-active > a:focus
+{
+    color:#fff !important;
+    background:#faa61a;
+    border:none
+}
+.nav-tab-category > li span.tab_carret{
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 20px;
+    margin-left: 10px;
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-left: 8px solid #666666;
+}
+.nav-tab-category > li.ui-state-active span.tab_carret{
+    border-top: 8px solid #fff;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    top: 22px;
+    margin-left: 10px;
+}
+.tab-partner-tour{
+    padding-top: 10px;
+}
+.h3-by-style{
+    margin-top: 0;
+    font-size: 20px;
+    color:#ba6842;
+    font-family: MyriadPro-Cond;
+    font-weight: normal;
+}
+.count-tour{
+    color:#999999;
+}
+.sub-cat-partner{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.li-cat-partner{
+    border-bottom: 1px solid #cccccc;
+    padding: 9px 0 9px 0px;
+}
+.li-cat-partner i{
+    color:#faa61b;
+    font-size: 13px;
+}
+.a-cat-partner{
+    color:#333;
+    padding-left: 4px;
+}
+.span-border{
+    float:left;
+    border:1px solid #e4e3e2;
+    padding:4px 10px 4px 14px;
+    color:#666;
+}
+.span-border a{
+    color:#333;
+    cursor: pointer;
+}
+.span-checkall{
+    margin-right: 25px;
+}
+.span-download{
+    border-right: none;
+}
+.span-border span{
+}
+.bar-partner{
+    padding:15px 0 15px 0
+}
+.span-checkall input{
+    margin: 0;
+}
+.tab-tour-latest-partner{
+    background:#e0dfde;
+    padding: 6px 5px 6px 14px;
+    display: table;
+    width: 100%;
+}
+.col-checkall{
+    width: 30px;
+    text-align: center;
+}
+.col-tab{
+    display: table-cell;
+    vertical-align: middle;
+    empty-cells: show;
+    text-align: left;
+}
+.tab-tour-latest-partner .col-tab{
+    font-family: OpenSans-semibold;
+}
+.col-depart{
+    width: 142px;
+}
+.col-duration{
+    width:155px
+}
+.col-rate{
+    width:85px;
+    text-align: right;
+}
+.col-contract-rate{
+    width: 115px;
+    text-align: right;
+}
+.col-down-price{
+    width: 95px;
+    text-align: right;
+}
+.col-down-trip{
+    width: 122px;
+    text-align: right;
+}
+.col-name{
+    width: calc(100% - 744px);
+}
+.tab-content-tour-partner{
+    border:1px solid #e0dfde;
+}
+.row-tour-partner{
+    border-bottom: 1px solid #e0dfde;
+    padding: 7px 5px 7px 14px;
+    display: table;
+    width: 100%;
+}
+.row-tour-partner:hover,
+.row-tour-partner-hover
+{
+    background:#faf5d0
+}
+.col-name a:hover{
+   text-decoration: none;
+}
+.col-name a{
+    color:#ba6842;
+}
+.row-tour-partner:last-child{
+    border-bottom: none;
+}
+.col-tab-p{
+    padding-right: 5px;
+}
+.public-rate{
+    font-family: OpenSans-semibold;
+    text-align: right;
+}
+.price-contact{
+    font-family: OpenSans-semibold;
+    color:#ba6842
+}
+.rate-down{
+    color:#ef3f23;
+    background:url(../../images/topvietnamtour/downarrow.png) no-repeat left center;
+    padding-left: 8px;
+}
+.download{
+    color:#999;
+    font-size: 13px;
+    cursor: pointer;
+}
+.h1-title-partner{
+    font-family: MyriadPro-Regular;
+    font-size:40px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    display: table;
+}
+.h1-title-partner span{
+    font-family: MyriadPro-Semibold;
+}
+.h1-title-partner i{
+    color:#ba6842;
+    font-size:30px;
+    padding: 0 15px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.top-header{
+    margin-bottom: 20px;
+}
+.li-cat-partner-active{
+    background: #ba6842;
+}
+.li-cat-partner-active *{
+    color:#fff
+}
+.li-cat-partner-active i{
+    color:#BA6842
+}
+.ui-widget-content,.ui-tabs .ui-tabs-panel{
+    background:none;
+    border:none;
+    padding: 0;
+}
+.ui-tabs .ui-tabs-nav{
+    padding:0;
+    border:none;
+    background: 0;
+}
+.ui-tabs .ui-tabs-nav li{
+    margin:0;
+    border:none;
+    border-radius: 0;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active{
+    background: #faa61a none repeat scroll 0 0;
+    border: medium none;
+    color: #ffffff;
+}
+.ui-tabs .ui-tabs-nav li.active a{
+    color:#fff
+}
+.ui-tabs .ui-tabs-nav li a{
+    float: none;
+    color:#333;
+    font-weight:normal;
+}
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited{
+    color:#333
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+    background:#EEEEEE
+}
+.content-part-tourdetail{
+    padding-bottom: 100px;
+}
+.box-bredcrum-partner{
+    background:#E5E5E5;
+    padding:10px 15px;
+    color:#666;
+    display: table;
+    width: 100%;
+}
+.box-bredcrum-partner span{
+    font-weight:bold;
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+}
+.box-bredcrum-partner i{
+    font-size:30px;
+    display: table-cell;
+    width: 40px;
+    color:#999;
+}
+.editprofile-info{
+    border:1px solid #ccc;
+    padding: 20px 20px;
+}
+.row-edit{
+    padding-bottom: 10px;
+}
+#frmeditprofile select{
+    border:1px solid #d7d5d5;
+    padding: 5px;
+}
+#frmeditprofile input[type=text],
+#frmeditprofile input[type=password],
+#frmeditprofile textarea,
+.formuser input[type=text],
+.formuser input[type=password],
+.formuser textarea
+{
+    border:1px solid #d7d5d5;
+    padding: 5px;
+}
+.input-edit{
+    width: 60%;
+}
+#frmeditprofile  select,
+.select_edit select
+{
+    width: calc(100% + 17px);
+    background:rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    border:none;
+    padding: 4px 5px;
+}
+.select_edit{
+    background:url(../../images/topvietnamtour/arrow4.png) no-repeat right center;
+    overflow: hidden;
+    background-color: #fff;
+    border:1px solid #d7d5d5;
+    float: left;
+}
+.business_description{
+    width: 60%;
+    height: 150px;
+}
+.input-phone{
+    width: 60%;
+}
+.content_main{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.editprofile-header{
+    font-size:18px;
+    padding-bottom: 25px;
+    padding-top: 15px;
+}
+.editprofile-header span{
+    color:#999
+}
+.editprofile-header a{
+    color:#ef4024
+}
+.editprofile-avatar{
+    background:#999999;
+    border-radius: 50%;
+    width: 214px;
+    height: 214px;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.user-avatar{
+    text-align: center;
+    padding: 0 10px 30px 10px;
+}
+.user-avatar img{
+    border-radius: 50%;
+}
+.editprofile-avatar img{
+    padding-top: 45px;
+}
+.ul-edit li{
+    padding: 8px 0 8px 15px;
+}
+.row-bt{
+    margin-top:15px
+}
+.a-control{
+    border: 1px solid #e4e3e2;
+    color: #666666;
+    padding: 4px 10px 4px 10px;
+}
+.a-control:last-child{
+    border-left:none
+}
+.a-control:hover{
+    text-decoration: none;
+}
+.a-control:hover i{
+    color:#faa61a
+}
+.a-control i{
+    color:#999
+}
+.span-count{
+    display: inline-block;
+    padding: 4px 10px;
+}
+.message-list{
+    border:1px solid #ccc
+}
+.row-msg-list{
+    display: table;
+    width:100%;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+.col-msg{
+    display: table-cell;
+    padding: 0 8px;
+}
+.row-msg-list:last-child{
+    border-bottom: none;
+}
+.col-check-msg input{
+    margin: 0;
+}
+.col-check-msg{
+    padding-left:14px;
+    width: 40px;
+}
+.col-email{
+    width: 30px;
+    padding-left: 3px;
+}
+.col-info-admin{
+    width: 130px;
+}
+.col-date{
+    width: 110px;
+    text-align: right;
+    color:#999
+}
+.col-email i{
+    font-size: 16px;
+    font-weight: bold;
+    color:#666;
+    line-height: inherit;
+}
+.msg-read .col-email i{
+    color:#999
+}
+.a-msg-list{
+    color:#333
+}
+
+.msg-unread .a-msg-list,
+.msg-unread .col-info-admin,
+.msg-unread .name-msg-content,
+.msg-unread .email-latest
+{
+    font-family: OpenSans-Semibold;
+}
+.msg-content{
+    font-size:13px;
+    color:#666;
+    padding-top: 3px;
+}
+.msg-short{
+    height: 25px;
+    overflow: hidden;
+}
+.lessmsg-list, .moremsg-list {
+    color: #faa61a;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+}
+
+#cboxSlideshow{
+    display:none !important
+}
+.a-nam-list-small{
+    font-size:18px;
+}
+.box-search-banner{
+    position: absolute;
+    bottom: 0;
+    height: 135px;
+    left: 0;
+    width: 100%;
+    z-index: 99;
+}
+.title-search{
+    font-family: MyriadPro-Bold;
+    font-size: 30px;
+    text-shadow: 1px 3px 3px #000000;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding-left: 35px;
+    margin-top: 0;
+}
+.partner_logo{
+    padding-top: 20px;
+}
+.title-form_{
+    text-align: right;
+}
+.select-search{
+    width:100%;
+    padding: 5px 5px !important;
+}
+.box-search-partner .select_edit{
+    width: 100%;
+    border:none;
+}
+.btn-menu-partner:active, .btn-menu-partner.active, .open > .dropdown-toggle.btn-menu-partner{
+    background-image:url("../../images/topvietnamtour/setting.png");
+}
+.box-parner-latest{
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+.span-border:hover{
+    background: #faf5d0;
+}
+.span-border:hover a{
+    text-decoration: none;
+}
+.box-search-partner .col-md-3{
+    padding-top: 6px;
+    font-family: OpenSans-Semibold;
+}
+.search-home{
+    padding-bottom: 10px;
+}
+.message-detail{
+    padding: 20px;
+    border:1px solid #ccc
+}
+.col-date-detail{
+    padding-top: 20px;
+    color:#666
+}
+.span-unread-msg{
+    display:inline-block;
+    background:#EF4021;
+    border-radius:50%;
+    color:#fff;
+    padding:3px 6px;
+    margin-left: 5px;
+    font-size:14px;
+    font-weight: normal;
+}
+.row-tour-hot .tour-top-name-inner {
+    display:table;
+    width: 100%;
+}
+.row-tour-hot .tour-top-name-inner .span-day-top{
+    display: table-cell;
+    float: none;
+}
+.row-tour-hot .tour-top-name-inner  .a-name-top{
+    top: 0;
+    padding-left:10px
+}
+#single_tour_feat ul li i.icondaily{
+    display:block;
+    height: 40px;
+    margin-bottom: 14px;
+}
+.physical{
+    background: url(../../images/topvietnamtour/physical.png) no-repeat top left;
+    width: 40px;
+    height: 40px;
+}
+.culture{
+    background: url(../../images/topvietnamtour/cacul.png) no-repeat;
+    width: 39px;
+    height: 40px;
+}
+.minimun_age{
+    background: url(../../images/topvietnamtour/age.png) no-repeat;
+    width: 53px;
+    height: 40px;
+}
+/*.duration{
+    background: url(../../images/topvietnamtour/duration.png) no-repeat;
+    width: 40px;
+    height: 40px;
+}*/
+.popup-day{
+    display:none
+}
+.popup-day{
+    display: none;
+    padding: 20px;
+}
+#cboxLoadedContent .popup-day{
+    display:block;
+}
+#cboxTitle:empty { display: none !important; }
+.dest-day{
+    font-family: OpenSans-Italic;
+    padding:20px 0
+}
+.tour-day-img{
+    float: right;
+    width: 250px;
+    padding: 5px;
+    border:1px solid #ddd;
+    text-align:center;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.img-about-detail{
+    width: 100%;
+}
+.tour-day-img img{
+    width: 100%;
+    padding-bottom: 4px;
+}
+.span-trans-cruise{
+    background-image:url(../../images/topvietnamtour/cruise-small.png);
+}
+.destcontrols{
+    position: absolute;
+    right:0;
+    bottom: 0;
+}
+.tb-partner td{
+    padding: 0 4px;
+}
+.box-destination{
+    background:#f1f6ed;
+    padding: 26px 40px 26px 35px;
+}
+.dest-indicators{
+    position: relative;
+}
+.dest-indicators li{
+    border:1px solid #ccc;
+    height:16px;
+    width: 16px;
+}
+.dest-indicators li.active{
+    border:none;
+    height:16px;
+    width: 16px;
+}
+.carousel-left, .carousel-right{
+    background-color:#8eae75;
+    border-radius: 3px;
+    position: absolute;
+    top: calc(50% - 50px);
+    padding: 24px 12px;
+    text-align: center;
+}
+.carousel-right{
+    right:-10px
+}
+.carousel-left{
+    left: -10px;
+}
+.carousel-left span,
+.carousel-right span{
+    background-repeat: no-repeat;
+    background-position: top left;
+    display: inline-block;
+    height: 47px;
+    width: 14px;
+}
+.carousel-left span{
+    background-image: url(../../images/topvietnamtour/left.png);
+}
+.carousel-right span{
+    background-image: url(../../images/topvietnamtour/right.png);
+}
+.cattour-map-small img{
+	height:auto !important;
+	max-width:260px !important;
+}
+.cattour-map-large img{
+    width: auto;
+	max-width:100% !important;
+}
+.cattour-map-small .cruise-destination{
+float:right;
+text-align:left;
+	max-width:260px !important;
+}
+.cattour-map-large .cruise-destination{
+float:none;
+	max-width:100% !important;
+	text-align:center;
+}
+.tour-cruise-map:hover{
+	text-decoration:none;
+}
+
+.commRecord {
+    clear: both;
+    height: auto;
+    padding: 0 10px 0 20px;
+}
+.clscommtcount {
+    color: #49b0f5;
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: -10px;
+}
+.commRecord .commRight2 {
+    float: left;
+    font-family: Verdana;
+    height: auto;
+    margin-bottom: 20px !important;
+    margin-left: 40px !important;
+    width: 90%;
+}
+.commRecord .commTime {
+    color: #8fb5da;
+    height: auto;
+    margin-top: 8px;
+}
+
+.commRecord {
+    background: #F6F8F7 url("../../images/topvietnamtour/question.png") no-repeat scroll 10px 15px;
+    clear: both;
+    height: auto;
+    margin-bottom: 15px;
+    padding: 15px 15px 15px 85px;
+    border-radius: 5px;
+}
+.commRecord .commTitle {
+    color: #bb6a45;
+    margin-bottom: 7px;
+    font-family:OpenSans-Semibold;
+}
+.commRecord .commTitle {
+    margin-top: 5px;
+}
+.askby__css {
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/person.png") no-repeat scroll 0 4px;
+    color: #666666;
+    font-size: 13px;
+    padding: 5px 0 5px 25px;
+}
+.commRecord .commReply {
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/bg_reply_2.png") no-repeat scroll 0 0;
+    cursor: pointer;
+    float: right;
+    padding-left: 25px;
+    color:#bb6a45;
+    font-size: 13px;
+}
+.answers_question {
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/answers.png") no-repeat scroll 0 0;
+    padding: 0 0 0 65px;
+}
+.commRecord .commReplyText {
+    border-top: 1px dashed #cccccc;
+    margin-top: 10px;
+    padding-top:10px
+}
+.askby__css strong{
+    font-weight: normal;
+    font-family:OpenSans-Semibold;
+}
+div#div_formsendquestion {
+    border-radius: 10px;
+    box-shadow: 0 0 2px #a6a4a4;
+}
+.form_question {
+    margin-bottom: 20px;
+}
+.title_form_q {
+    background: #bb6a45 url("../../images/topvietnamtour/question.jpg") no-repeat scroll 16px 5px;
+    border-radius: 11px 11px 0 0;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: normal;
+    padding-bottom: 5px;
+    padding-left: 70px;
+    padding-top: 5px;
+    font-family: MyriadPro-Cond;
+    text-transform: uppercase;
+}
+.title_form_q span{
+    font-family: MyriadPro-Semibold;
+}
+.question_inner {
+    padding: 15px
+}
+.form_question input, .form_question select, .form_question textarea {
+    border: 1px solid #cfcfcf;
+    color: #918e8e;
+    padding: 5px 7px;
+    width: 100%;
+}
+.padding_row_question {
+    margin-bottom: 10px;
+}
+.div_a_send_ask {
+    margin-top: 15px;
+    text-align: center;
+}
+.a_send_ask {
+    background: #faa61a none repeat scroll 0 0;
+    border-radius: 5px;
+    color: #612608;
+    display: inline-block;
+    font-size: 17px;
+    font-family: MyriadPro-Regular;
+    padding: 4px 25px;
+    cursor: pointer;
+}
+.a_send_ask:hover {
+    background: #ba6842 none repeat scroll 0 0;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.detail_question{
+    height:150px
+}
+.div_show_ask {
+    border: 2px solid #d6d6d5;
+    margin: 13px 0 13px 65px;
+    position: relative;
+}
+div.icon_close {
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/close.png") no-repeat scroll left top;
+    cursor: pointer;
+    height: 16px;
+    position: absolute;
+    right: 10px;
+    top: 4px;
+    width: 16px;
+}
+.title_show_ask {
+    background: #d6d6d5 none repeat scroll 0 0;
+    padding: 5px 0 5px 10px;
+    font-weight:bold;
+    color: #666666;
+}
+.input_sendask{
+    width: 100%;
+    padding: 3px 5px;
+}
+.div_show_ask_inner{
+    padding:10px;
+    background:#fff
+}
+.a_send_question{
+    border:none;
+    color:#fff;
+    background:#faa61a;
+    padding: 2px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.a_send_question:hover{
+    background:#ba6842 none repeat scroll 0 0;
+    text-decoration: none;
+    color:#fff
+}
+.box_search_bg{
+    padding: 7px 28px;
+    margin: 0 8px 0px 8px;
+    position: relative;
+}
+.expand_search .box_search_bg{
+    background:rgba(0,0,0,0.5);
+}
+.row_search_1{
+    float:left;
+    width: 25%;
+    margin:0 4px;
+    background:#fff;
+    padding: 2px 4px 0 4px;
+}
+.row_search_2{
+    float: left;
+    width: 20%;
+    margin:0 4px;
+    padding: 2px 0;
+    border-radius: 5px;
+    display: none;
+}
+.form .row_search_2 label.selectlabel{
+    background: #f3f3f3;
+    margin-bottom: 0;
+    border-radius: 5px;
+    padding: 5px;
+}
+.form .row_search_2 label.selectlabel span{
+    background-color: #f3f3f3;
+}
+.top_search{
+    margin:0 -4px;
+}
+.submit_search {
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/search.png") no-repeat scroll left top;
+    border: medium none;
+    cursor: pointer;
+    float: right;
+    height: 15px;
+    margin-top: 7px;
+    padding: 0;
+    width: 18px;
+}
+.keyword_serach {
+    border: medium none;
+    width: calc(100% - 40px);
+    border:none;
+    padding: 5px;
+}
+
+.submit_search_2{
+    border: none;
+    color:#fff;
+    cursor: pointer;
+    background:#faa61a;
+    font-size: 20px;
+    font-family: OpenSans-SemiBold;
+    border-radius: 5px;
+    padding: 0px 30px 3px 30px;
+    margin-left: 5px;
+    display: none;
+
+}
+
+.top_search .formitem{
+    top:auto;
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 200px;
+}
+.close_search{
+    font-weight:bold;
+    color:#fff;
+    cursor: pointer;
+    padding: 5px;
+    position: absolute;
+    right:0;
+    top:-13px;
+    background: url(../../images/topvietnamtour/close2.png) top left no-repeat;
+    width: 12px;
+    height:11px;
+    display: none;
+}
+.bottom_search{
+    margin: 0 35px 0 35px;
+    background:#fff url(../../images/topvietnamtour/bg2.jpg) repeat-x top left;
+    padding: 9px 10px 5px 180px;
+    display: none;
+}
+.bottom_search a{
+    color:#faa61a;
+    padding: 0 10px;
+}
+.expand_search .bottom_search, .expand_search .close_search, .expand_search .row_search_2, .expand_search .submit_search_2{
+    display: block;
+}
+.div_paging {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    float: right;
+}
+.div_paging a {
+    color: #000;
+    float:left;
+    font-weight: bold;
+    height: 24px;
+    line-height: 24px;
+    margin: 0 2px;
+    text-align: center;
+    width: 24px;
+}
+.sh_page_unselecta {
+    background: #ccc none repeat scroll 0 0;
+}
+.div_paging .sh_page_selecta {
+    background: #BA6842 none repeat scroll 0 0;
+    color:#fff
+}
+.next_page {
+    background: url(../../images/topvietnamtour/nex.png) no-repeat 7px 5px;
+    background-color: #FCA61B;
+}
+.pre_page {
+    background: url(../../images/topvietnamtour/pre.png) no-repeat 9px 5px;
+    background-color: #ccc;
+}
+.img_blog_index{
+    float:left;
+    width:120px;
+    min-height: 70px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.row_blog_index{
+    margin-bottom: 25px;
+}
+.row_blog_index:nth-child(3n+1){
+    clear: both;
+}
+.a-blog-index{
+    color:#333;
+    font-size:15px
+}
+.h4_blog{
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.box-blog-index{
+    padding-top: 20px;
+}
+
+.container_print {
+    margin: 0 auto;
+    width: 60%;
+}
+.top_print {
+    border-bottom: 1px solid #cccccc;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+}
+.div-print {
+    margin: 30px 0;
+    text-align: center;
+}
+.button-print {
+    background: #faa61a;
+    color: #612608;
+    display: inline-block;
+    font-size: 15px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.button-print:hover{
+    background-color: #ba6842;
+    color: #ffffff;
+    text-decoration: none;
+}
+.bottom_print {
+    border-top: 1px solid #cccccc;
+    margin-top: 15px;
+    padding-top: 10px;
+}
+.row_book_item {
+    margin-bottom: 10px;
+}
+.send_input {
+     padding: 5px;
+     width: 100%;
+ }
+.title-send {
+    font-size: 17px;
+    font-weight: bold;
+    padding: 10px 0 20px 0;
+}
+.contact-textarea {
+    height: 130px;
+    width: 100%;
+}
+.bar-cruise-info a.a_share{
+    margin: 0;
+}
+.a_share:hover,
+.a_share:focus,
+{
+    text-decoration: none;
+}
+
+.cattour-weather .aw-widget-36hour .bg-su, .aw-widget-36hour .tbg-su, .aw-widget-current .bg-su, .aw-widget-current .tbg-su{
+    background: none !important;
+}
+.cattour-weather div.aw-widget-current-inner{
+    padding-bottom:0 !important;
+}
+.cattour-weather #link_get_widget{
+    display:none;
+}
+.cattour-weather div.aw-widget-current-inner{
+    font-family: "OpenSans-Regular","Open Sans",sans-serif;
+}
+.cattour-weather div.aw-widget-current-inner div.aw-widget-content{
+    border:none !important
+}
+.cattour-weather div.aw-widget-current-inner{
+    font-size:12px !important
+}
+.cattour-weather div.aw-widget-current-inner div.aw-widget-content a.aw-current-weather p time,
+.cattour-weather div.aw-widget-current-inner div.aw-widget-content a.aw-current-weather p span.aw-weather-description
+{
+    font-size:14px !important;
+    margin-top: 9px !important;
+}
+.cattour-weather .lt-479 div.aw-widget-current-inner div.aw-widget-content a.aw-current-weather p{
+   width: auto !important;
+}
+.cattour-weather .lt-479 div.aw-widget-current-inner div.aw-widget-content a.aw-current-weather h3{
+    text-align:left !important;
+    font-size:20px !important;
+}
+.cattour-weather div.aw-widget-current-inner div.aw-widget-content a.aw-current-weather{
+    color:#666 !important;
+}
+.cattour-weather .lt-479 div.aw-widget-current-inner div.aw-widget-content a.aw-current-weather span.aw-icon{
+    top:50px !important
+}
+.offer_summary{
+    padding-bottom: 20px;
+}
+.img_offer{
+    width: 100%;
+}
+.offer_img{
+    position: relative;
+    cursor: pointer;
+}
+.offer_date{
+    position: absolute;
+    font-size:16px;
+    color:#fff;
+    font-family: OpenSans-Semibold;
+    bottom: 10px;
+    right:10px;
+}
+.offer_end_in{
+    text-align: center;
+}
+.offer_end_span_1{
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.diamond {
+    background: #d5161d none repeat scroll 0 0;
+    height: 40px;
+    left: -4px;
+    position: absolute;
+    top: 8px;
+    transform: rotate(-45deg);
+    width: 40px;
+}
+.name_offer_div {
+    position: relative;
+   /* background: #feab0b;*/
+    padding: 15px 0;
+
+    text-align: center;
+}
+.name_offer_div {
+    content: '';
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-top: 70px solid #feab0b;
+    border-right: 410px solid transparent;
+    border-bottom: 0 solid transparent;
+    border-left: 410px solid transparent;
+}
+.row-offer-hot{
+    margin-bottom: 20px;
+}
+.name_offer_div{
+    text-align:center;
+    position: relative;
+
+}
+.name_offer_div span{
+    color:#b62026;
+    font-family: MyriadPro-BoldCond;
+    font-size: 18px;
+    text-transform:uppercase
+}
+.col_time{
+    display: inline-block;
+    line-height: 18px;
+    font-size: 30px;
+    background: url(../../images/topvietnamtour/dot.png) no-repeat right 5px;
+    padding-right: 12px;
+    padding-left: 5px;
+}
+.col_time span{
+    font-size: 14px;
+}
+.col_time:last-child{
+    background: none;
+}
+.offer_end_time{
+    padding-top: 8px;
+}
+
+.h3_offer span{
+    position: relative;
+    top: -13px;
+    border-bottom: 1px dotted #fff;
+    border-top: 1px dotted #fff;
+    padding: 0 8px;
+}
+.h3_offer{
+    border-bottom: 20px solid #FEAB0B;
+    border-right: 14px solid rgba(0, 0, 0, 0);
+    border-left: 14px solid rgba(0, 0, 0, 0);
+    border-top: 20px solid #FEAB0B;
+    height: 0px;
+    width: auto;
+    color:#4F0000;
+    display:inline-block;
+    position: relative;
+    padding: 0 20px;
+    box-shadow: 0px 2px 0px #ccc;
+    font-family: MyriadPro-BoldCond;
+    text-transform: none;
+
+}
+.h3_offer_div{
+    text-align: center;
+    padding-bottom:10px;
+}
+.span_form{
+    font-family: OpenSans-Semibold;
+}
+.offer_detail{
+    padding-top: 20px;
+}
+.h3_special_offer{
+    text-transform: uppercase;
+    font-family: OpenSans-Semibold;
+    font-size: 21px;
+    margin-bottom: 22px;
+    margin-top: 30px;
+}
+.line_offer{
+    display: inline-block;
+    border-top: 2px solid #ccc;
+    width:300px;
+    margin-top: 20px;
+}
+.line_offer_active{
+    border-bottom: 2px solid #ccc;
+    border-top:none;
+    height: 40px;
+}
+.line_offer_active .a_view_offer{
+    background: url(../../images/topvietnamtour/offer2.png) no-repeat center 10px;
+    background-color: #faa61a;
+    border-radius: 73px 73px 0 0;
+    -moz-border-radius: 73px 73px 0 0;
+    -webkit-border-radius: 73px 73px 0 0;
+}
+.a_view_offer{
+    cursor: pointer;
+}
+a.a_view_offer {
+    background: url(../../images/topvietnamtour/offer1.png) no-repeat center 10px;
+    background-color: #ccc;
+    bottom: 0;
+    color: #ffffff;
+    height: 38px;
+    right: 43px;
+    width: 73px;
+    z-index: 9;
+    border-radius: 0 0 73px 73px;
+    -moz-border-radius: 0 0 73px 73px;
+    -webkit-border-radius: 0 0 73px 73px;
+    display: inline-block;
+}
+.row_offer{
+    margin-bottom: 35px;
+}
+.a-tour-offer{
+    color:#ba6842;
+    font-size: 17px;
+    width: calc(100% - 47px);
+    padding-right:0;
+    padding-left: 5px;
+}
+.img-catguide-top{
+    width:100%
+}
+.name-catguide-top{
+    text-align: center;
+    padding: 4px 0;
+    color:#ba6842;
+    font-size:14px
+}
+.col-catguide-top{
+    padding: 2px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.catguide-top{
+    padding: 10px;
+}
+.catguide-top .row{
+    margin: 0 -5px;
+}
+.catguide-top .col-xs-6{
+    padding: 0 5px;
+}
+.col-xs-catguide-top:nth-of-type(2n+1){
+    clear:both
+}
+.col-xs-catguide-top{
+    margin-bottom: 10px;
+}
+.header1024{
+    position: relative;
+}
+.span_whyus_1{
+    color:#8a8888;font-weight: bold;font-size:18px
+}
+.span_whyus_2{
+    color:#f9a51a;font-family: MyriadPro-Bold;font-size:30px
+}
+.span_whyus_3{
+    color:#f9a51a;font-family: MyriadPro-Bold;font-size: 17px
+}
+.span_whyus_4{
+    color:#8a8888;font-size: 16px; font-weight: bold;   transform: rotate(-12deg);-ms-transform: rotate(-12deg); /* IE 9 */-webkit-transform: rotate(-12deg); /* Chrome, Safari, Opera */
+}
+.row-subcat-dest:nth-child(2n+1){
+    clear:both;
+}
+.row_newsletter{
+    padding-bottom: 10px;
+}
+.input_newsletter_right{
+    padding:4px 5px;
+    border:1px solid #f1f1f1;
+    width:100%
+}
+.box_newsletter{
+    padding: 10px 30px 30px 30px;
+    min-width: 500px;
+}
+.sale_avatar{
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.sale_avatar img{
+    max-width: 200px !important;
+    height: auto !important;
+    border-radius: 50%;
+}
+.box_partner_info{
+    border:1px solid #ccc;
+    padding: 10px 0;
+    margin-bottom: 25px;
+}
+.box_cust_tour_partner address{
+    margin: 0;
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/download.png") no-repeat scroll 0 8px;
+    padding-left: 20px;
+}
+.box_cust_tour_partner address a{
+    color:#333333
+}
+.box_cust_tour_partner em{
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/downarrow.png") no-repeat scroll left center;
+    color: #ef3f23;
+    padding-left: 8px;
+    font-style:normal;
+}
+.list-tarriff a{
+
+}
+.box_cust_tour_partner{
+    font-size: 13px;
+}
+.box_cust_tour_partner h3{
+    margin-top: 0;
+    background: url(../../images/topvietnamtour/iconlogo.png) no-repeat left center;
+    padding-left: 40px;
+    color: #ba6842;
+    font-family: OpenSans-semibold;
+    font-size: 19px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom:10px
+}
+.box_cust_tour_partner table{
+    border:none;
+}
+.box_cust_tour_partner table td{
+    padding: 8px;
+    border:none;
+    border-bottom: 1px solid #E8E8E8;
+}
+.box_cust_tour_partner table th{
+    font-weight: normal;
+    background:#E9E7E8;
+    border:none;
+    color:#ba6842;
+    padding: 8px;
+    font-size: 15px;
+}
+.box_cust_tour_partner .download{
+    background: rgba(0, 0, 0, 0) url("../../images/topvietnamtour/brochure1.jpg") no-repeat scroll 0 4px;
+    padding-left: 14px;
+}
+.title-tarriff{
+    font-size: 25px;
+}
+.div-book-package{
+    margin-bottom: 20px;
+}
+.tour_include_exclude{
+    display:table;
+    width: 100%;
+}
+.table{
+    display:table-cell;
+}
+.tour-include.table{
+    width:49%
+}
+.line-table{
+    width: 2%;
+}
+.h4_include{
+    background: #bb6a45 none repeat scroll 0 0;
+    border-color: #bb6a45;
+    color: #ffffff;
+    margin: 0;
+    padding: 10px;
+    font-size:17px;
+    font-family: OpenSans-semibold;
+}
+.box_search_right_{
+    margin-top: 20px;
+}
+.keyword_serach_right{
+    border:1px solid #dddddd;
+    padding: 3px 5px;
+    width: 100%;
+}
+.box_search_right{
+    border-color: -moz-use-text-color #cccccc #cccccc;
+    border-image: none;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+    padding:15px 15px 10px 15px
+}
+.subiz_status_, .viewpricebooking{
+    display:inline-block;
+}
+.subiz_status_, .viewpricebooking{
+    background: #faa61a;
+    color:#612608;
+    font-size: 18px;
+    display: inline-block;
+    padding: 4px 30px 5px 30px;
+    cursor: pointer;
+    font-family: OpenSans-semibold;
+}
+.subiz_status_:hover, .subiz_status_:focus,
+.viewpricebooking:hover, .viewpricebooking:focus
+{
+    background-color: #ba6842;
+    color:#fff;
+    text-decoration: none;
+}
+.subiz_status_ i{
+    margin-left: 10px;
+}
+.subiz_status_ a{
+    color:#612608;
+}
+.tab-cruise-detail{
+    position: relative;
+}
+.subbiz_right{
+    position: absolute;
+    right:0;
+    top:8px
+}
+.bar_tour_detail{
+    background:#F1EFF0;
+    padding: 7px 10px;
+    font-family:MyriadPro-Regular;
+    font-size:16px
+}
+.tour_detail{
+    border-top:1px solid #ccc
+}
+.tour_detail .pathway{
+    padding: 8px 0;
+}
+.bar_tour_detail_row{
+    float:left;
+    padding-right: 25px;
+}
+.bar_tour_detail_row .torange{
+    padding-left:10px;
+}
+.tour-slide-text{
+    position: absolute;
+    bottom:60px;
+    left: 30px;
+    width:65%
+}
+.h1_slide_text{
+    font-size:40px;
+    line-height: 1.2;
+    font-family:MyriadPro-Semibold;
+    color:#fff;
+    margin-top: 0;
+    margin-bottom:20px;
+}
+.h1_slide_text_show{
+    text-shadow: 0 3px 2px rgba(0, 0, 0, 0.9);
+}
+.tour-slide-text-info{
+    border-radius:7px;
+    padding: 8px 15px;
+    background:rgba(255,255,255,0.8);
+    float:left;
+    font-size: 16px;
+}
+.tour-slide-text-info .rating{
+    padding-bottom: 0;
+}
+.tour-slide-text-info .rating small{
+    font-size: 16px;
+    margin-right: 5px;
+}
+.icon_off{
+    background:url(../../images/topvietnamtour/offer.png) no-repeat left center;
+    color:#fff;
+    display:inline-block;
+    font-size:14px;
+    font-weight: bold;
+    width: 89px;
+    height:54px;
+    text-align: center;
+    line-height: 54px;
+    position: relative;
+    bottom:5px;
+    margin-left: 8px;
+}
+.text_offer{
+    color:#666666;
+    font-size: 19px;
+    font-family: MyriadPro-Semibold;
+    color:#F40505
+}
+#single_tour_feat{
+    margin-top: 15px;
+}
+.top_row_offer{
+    position: relative;
+}
+.offer_end_in{
+    position: absolute;
+    right: 20px;
+    bottom: 30px;
+    background:#FFAB0B;
+    padding: 15px;
+    color:#fff;
+    border-radius: 8px;
+}
+.row-offer-hot:nth-of-type(3n+1){
+    clear: both;
+}
+.icon_offer_detail{
+    background:url(../../images/topvietnamtour/offer3.png) no-repeat left center;
+    color:#b62026;
+    font-size:16px;
+    width: 90px;
+    height:72px;
+    text-align: center;
+    line-height: 72px;
+    position: absolute;
+    right: 10px;
+    top:10px;
+    font-family: MyriadPro-BoldCond;
+}
+.tooltip_tour_banner{
+    position: absolute;
+    right:20px;
+    top:15px;
+    font-size:18px;
+    width: 25px;
+    height:25px;
+    line-height: 25px;
+    border-radius: 50%;
+    text-align: center;
+    background: #fff;
+    cursor: pointer;
+
+}
+.tooltip_tour_banner .tooltip-item{
+    font-family: MyriadPro-BoldCond;
+    color:#000;
+}
+.tooltip_tour_banner .tooltip-content{
+    margin:0;
+    width: 150px;
+    right:40px;
+    left: auto;
+    top:0;
+    box-shadow: 0;
+    background: #000;
+    color:#fff;
+    bottom: auto;
+    padding: 5px 10px;
+    font-family:OpenSans-Regular;
+    font-size: 12px;
+}
+.tooltip_tour_banner .tooltip-content::after{
+    border:none
+}
+
+*::-moz-placeholder {
+    color: #918e8e;
+    opacity: 1 !important;
+}
+.carousel.carousel-fade .item {
+    transition: opacity 0.5s ease-in-out 0s;
+    -webkit-transition: opacity 0.5s ease-in-out 0s;
+    -moz-transition: opacity 0.5s ease-in-out 0s;
+    -ms-transition: opacity 0.5s ease-in-out 0s;
+    -o-transition: opacity 0.5s ease-in-out 0s;
+    -webkit-transform: translate3d(0,0,0);
+}
+.img-slide {
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    background-color: #ffffff;
+}
+.carousel.carousel-fade .active.left,
+.carousel.carousel-fade .active.right {
+    left: 0;
+    z-index: 2;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-filter: alpha(opacity=0);
+}
+.carousel.carousel-fade .next,
+.carousel.carousel-fade .prev {
+    left: 0;
+    z-index: 1;
+}
+
+.carousel.carousel-fade .carousel-control {
+    z-index: 3;
+}
+.name_offer_button{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+    color:#b62026;
+    top:0;
+    font-family: OpenSans-Semibold;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.a_view_offer_{
+    color:#853008;
+    cursor: pointer;
+    font-size: 14px;
+    text-transform: none;
+    font-family: MyriadPro-Cond;
+    text-decoration: underline;
+}
+.a_view_offer_:hover, .a_view_offer_:focus{
+    color:#fff
+}
+.name_offer_button_{
+    line-height: 1.2;
+}
+.name_offer_div__{
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+.read_less_offer{
+    color:#853008;
+    cursor: pointer;
+    text-align: center;
+    font-size: 14px;
+    text-transform: none;
+    font-family: MyriadPro-Cond;
+    cursor: pointer;
+    background: url(../../images/topvietnamtour/top.png) no-repeat top center;
+    padding-top: 20px;
+    margin-top:20px
+
+}
+#popupclose{
+    top: 140px; left: 140px; display: none;
+    position:fixed;
+}
+
+.form_question .securimage_input{
+    width: 100px;
+    margin: 5px 5px 0 10px;
+}
+.note_spam{
+    padding-top: 5px;
+    font-size:13px;
+    float: left;
+    margin-right: 20px;
+    font-style:italic;
+    color:#666
+}
+.scrolltour{
+    padding-top:20px
+}
+.header-partner.sticky{
+    position: relative;
+    background:none;
+    box-shadow:none;
+}
+#CDSWIDSSP{
+    width:100% !important
+}
+.box-search-banner{
+    width: 25%;
+}
+.row_search_1{
+    width:100%
+}
+.form_search.expand_search{
+    float:none;
+}
+.expand_search .row_search_1{
+    width:25%
+}
+.outer_expand_search{
+    width: 100%;
+}
+.private-icon{
+    position: relative;
+    padding: 0 5px 0 10px;
+    height: 24px;
+    line-height: 24px;
+    background: #faa61a;
+    display: inline-block;
+    color:#fff;
+    text-transform: uppercase;
+    font-size:12px;
+    margin-right: 20px;
+    z-index: 9;
+}
+.private-icon:before{
+    border: 12px solid #faa61a;
+    bottom: 0px;
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: -1;
+    border-left-width: 12px;
+    border-right-color: rgba(0, 0, 0, 0);
+    right:-13px;
+}
+a.private-icon.hover, a.private-icon.hover{
+    color:#fff;
+    text-decoration: none;
+}
+a.private-icon:hover:before, a.private-icon:focus:before{
+    border: 12px solid #ba6842;
+    border-left-width: 12px;
+    border-right-color: rgba(0, 0, 0, 0);
+}
+a.private-icon:hover, a.private-icon:focus{
+    color:#fff;
+    text-decoration: none;
+    background:#ba6842;
+}
+.private-departure{
+    font-family: OpenSans-Semibold;
+    color:#666666
+}
+.private-detail{
+    margin-bottom: 20px;
+}
+.private-tour{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9;
+}
